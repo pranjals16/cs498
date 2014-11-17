@@ -1,0 +1,88 @@
+a the 54 53 
+a the 54 
+, 56 55 
+, 56 
+barks meows 58 57 
+barks meows 58 
+flies jumps laughs 60 59 
+flies jumps laughs 60 
+that 62 61 
+that 62 
+annoys bothers disturbs worries 64 63 
+annoys bothers disturbs worries 64 
+eager easy tough 66 65 
+eager easy tough 66 
+easy tough 68 67 
+easy tough 68 
+please read 70 69 
+please read 70 
+bird cat cow dog horse rabbit 72 71 
+bird cat cow dog horse rabbit 72 
+Beth Cindy George Jim Joe Pam 74 73 
+Beth Cindy George Jim Joe Pam 74 
+Beth Cindy Pam 76 75 
+Beth Cindy Pam 76 
+? 78 77 
+? 78 
+adores loves scolds worships 80 79 
+adores loves scolds worships 80 
+believes thinks 82 81 
+believes thinks 82 
+believe think 84 83 
+believe think 84 
+, 56 55 doesn't she ? 78 77 87 86 85 
+, 56 55 doesn't she ? 78 77 87 86 
+, 56 55 doesn't she ? 78 77 87 
+is eager easy tough 66 65 90 89 88 
+is eager easy tough 66 65 90 89 
+is eager easy tough 66 65 90 
+is easy tough 68 67 93 92 91 
+is easy tough 68 67 93 92 
+is easy tough 68 67 93 
+to please read 70 69 96 95 94 
+to please read 70 69 96 95 
+to please read 70 69 96 
+Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 99 Beth Cindy George Jim Joe Pam 74 73 Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 100 98 97 
+Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 99 Beth Cindy George Jim Joe Pam 74 73 Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 100 98 
+Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 99 
+Beth Cindy George Jim Joe Pam 74 73 Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 100 
+, 56 55 don't they ? 78 77 103 102 101 
+, 56 55 don't they ? 78 77 103 102 
+, 56 55 don't they ? 78 77 103 
+a the 54 53 bird cat cow dog horse rabbit 72 71 106 Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 
+a the 54 53 bird cat cow dog horse rabbit 72 71 106 Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 a the 54 53 bird cat cow dog horse rabbit 72 71 106 
+a the 54 53 bird cat cow dog horse rabbit 72 71 106 
+Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 a the 54 53 bird cat cow dog horse rabbit 72 71 106 Beth Cindy George Jim Joe Pam 74 73 who 
+Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 a the 54 53 bird cat cow dog horse rabbit 72 71 106 
+who adores loves scolds worships 80 79 a the 54 53 bird cat cow dog horse rabbit 72 71 106 Beth Cindy George Jim Joe Pam 74 73 who 
+who adores loves scolds worships 80 79 a the 54 53 bird cat cow dog horse rabbit 72 71 106 Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 
+who adores loves scolds worships 80 79 a the 54 53 bird cat cow dog horse rabbit 72 71 106 Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 
+a the 54 53 bird cat cow dog horse rabbit 72 71 106 Beth Cindy George Jim Joe Pam 74 73 who 
+a the 54 53 bird cat cow dog horse rabbit 72 71 106 Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 
+a the 54 53 bird cat cow dog horse rabbit 72 71 106 Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 
+Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 a the 54 53 bird cat cow dog horse rabbit 72 71 106 
+Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 a the 54 53 bird cat cow dog horse rabbit 72 71 106 Beth Cindy George Jim Joe Pam 74 73 who 
+Beth Cindy George Jim Joe Pam 74 73 117 
+barks meows 58 57 and a the 54 53 bird cat cow dog horse rabbit 72 71 106 
+barks meows 58 57 and a the 54 53 bird cat cow dog horse rabbit 72 71 106 Beth Cindy George Jim Joe Pam 74 73 who 
+barks meows 58 57 and a the 54 53 bird cat cow dog horse rabbit 72 71 106 Beth Cindy George Jim Joe Pam 74 73 who 
+the bird cat cow dog horse rabbit 72 71 123 Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 
+the bird cat cow dog horse rabbit 72 71 123 Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 a the 54 53 bird cat cow dog horse rabbit 72 71 106 
+the bird cat cow dog horse rabbit 72 71 123 
+Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 a the 54 53 bird cat cow dog horse rabbit 72 71 106 
+Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 128 
+Beth Cindy Pam 76 75 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+Beth Cindy Pam 76 75 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+Beth Cindy Pam 76 75 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 99 Beth Cindy George Jim Joe Pam 74 73 Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 100 98 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 99 Beth Cindy George Jim Joe Pam 74 73 Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 100 98 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 99 Beth Cindy George Jim Joe Pam 74 73 Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 100 98 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 99 Beth Cindy George Jim Joe Pam 74 73 Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 100 98 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 99 Beth Cindy George Jim Joe Pam 74 73 Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 100 98 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 99 Beth Cindy George Jim Joe Pam 74 73 Beth Cindy George Jim Joe Pam 74 73 and Beth Cindy George Jim Joe Pam 74 73 believe think 84 83 100 98 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+Beth Cindy Pam 76 75 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+Beth Cindy Pam 76 75 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that Beth Cindy George Jim Joe Pam 74 73 believes thinks 82 81 that 
+that 62 61 the bird cat cow dog horse rabbit 72 71 123 Beth Cindy George Jim Joe Pam 74 73 who adores loves scolds worships 80 79 

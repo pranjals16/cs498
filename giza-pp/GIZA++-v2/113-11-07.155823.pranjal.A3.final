@@ -1,0 +1,9 @@
+# Sentence pair (1) source length 6 target length 5 alignment score : 0.252358
+I gave him the book 
+NULL ({ }) Je ({ 1 }) lui ({ }) ai ({ 2 }) donne ({ 3 }) le ({ 4 }) livre ({ 5 }) 
+# Sentence pair (2) source length 5 target length 4 alignment score : 0.0473513
+He read the book 
+NULL ({ }) Il ({ 1 }) a ({ 2 }) lu ({ }) le ({ 3 }) livre ({ 4 }) 
+# Sentence pair (3) source length 4 target length 4 alignment score : 0.361703
+He loved the book 
+NULL ({ }) Il ({ 1 }) aimait ({ 2 }) le ({ 3 }) livre ({ 4 }) 

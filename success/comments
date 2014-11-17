@@ -1,0 +1,6 @@
+keman2.py:
+	run successfully...creates less number of clusters for commentary than random text
+	http://stackoverflow.com/questions/1789254/clustering-text-in-python
+
+plsa:
+	runs successfully...creates less cluster for commentary

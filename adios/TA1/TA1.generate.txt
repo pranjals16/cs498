@@ -1,0 +1,500 @@
+ *  that Joe is tough to read disturbs the dog  #
+ *  Pam thinks that Jim believes that ~ ~ that ~ ~ ~ the dog barks and ~ ~ jumps , doesn't she ?  #
+ *  Pam thinks that George thinks that to read is tough  #
+ *  Cindy believes that Pam thinks that ~ ~ that to please is tough  #
+ *  that the horse is eager to read worries the cow  #
+ *  Cindy believes that Jim thinks that Beth who ~ ~ barks and ~ ~ laughs , doesn't she ?  #
+ *  Beth thinks that Pam believes that to please is tough  #
+ *  Cindy believes that Jim believes that ~ ~ that ~ ~ ~ ~ the dog meows and ~ ~ jumps , doesn't she ?  #
+ *  Cindy and Joe think that Jim thinks that ~ ~ that the cow meows and ~ ~ flies , don't they ?  #
+ *  Pam thinks that Pam believes that to read is tough  #
+ *  Pam believes that Pam thinks that ~ ~ that ~ ~ ~ to please is easy  #
+ *  Cindy thinks that Cindy believes that to please is tough  #
+ *  Cindy believes that Beth thinks that ~ ~ that ~ ~ ~ ~ the cat meows and ~ ~ jumps , doesn't she ?  #
+ *  Cindy and George think that Beth believes that ~ ~ that the dog meows and ~ ~ jumps , don't they ?  #
+ *  Beth believes that Jim believes that ~ ~ that ~ ~ ~ ~ to please is easy  #
+ *  that George is tough to read annoys the cow  #
+ *  Cindy believes that Beth believes that ~ ~ that the cow meows and ~ ~ jumps , doesn't she ?  #
+ *  Cindy thinks that Jim thinks that ~ ~ that ~ ~ ~ to please is tough  #
+ *  that Joe who ~ ~ ~ is easy to please bothers the horse  #
+ *  Pam thinks that Joe believes that to please is easy  #
+ *  Cindy George and Jim believe that Joe thinks that ~ ~ that ~ ~ ~ ~ Cindy barks and ~ ~ laughs , don't they ?  #
+ *  Pam thinks that Joe believes that ~ ~ that ~ ~ ~ the bird meows and ~ ~ flies , doesn't she ?  #
+ *  that Cindy who ~ ~ is eager to please disturbs Jim who ~ ~ ~  #
+ *  Pam thinks that George thinks that to please is tough  #
+ *  Beth thinks that George thinks that Cindy who ~ ~ ~ meows and ~ ~ laughs , doesn't she ?  #
+ *  that the dog is easy to read disturbs Jim who ~ ~  #
+ *  Cindy thinks that Pam thinks that ~ ~ that to read is tough  #
+ *  Cindy believes that Cindy thinks that the dog meows and ~ ~ flies , doesn't she ?  #
+ *  Cindy Jim and Cindy believe that Cindy thinks that ~ ~ that ~ ~ ~ ~ Joe barks and ~ flies , don't they ?  #
+ *  Beth thinks that Cindy believes that ~ ~ that to read is easy  #
+ *  George and Joe believe that George thinks that ~ ~ that ~ ~ ~ the cow meows and ~ ~ jumps , don't they ?  #
+ *  Cindy believes that Jim thinks that to read is tough  #
+ *  that the cow is eager to read bothers Cindy  #
+ *  Joe and George believe that Joe believes that ~ ~ that ~ ~ ~ Pam who ~ ~ barks and ~ jumps , don't they ?  #
+ *  Cindy believes that Pam believes that ~ ~ that the dog barks and ~ ~ laughs , doesn't she ?  #
+ *  Cindy believes that Pam thinks that the cow meows and ~ ~ laughs , doesn't she ?  #
+ *  Pam thinks that George believes that ~ ~ that the rabbit meows and ~ ~ jumps , doesn't she ?  #
+ *  Cindy thinks that Cindy believes that ~ ~ that to read is tough  #
+ *  Pam thinks that Cindy thinks that George meows and ~ ~ jumps , doesn't she ?  #
+ *  Beth thinks that Joe thinks that to please is tough  #
+ *  Joe and Cindy believe that Joe thinks that ~ ~ that ~ ~ ~ the dog meows and ~ ~ flies , don't they ?  #
+ *  Cindy thinks that George thinks that the horse barks and ~ ~ jumps , doesn't she ?  #
+ *  Beth believes that Cindy thinks that ~ ~ that to please is easy  #
+ *  Cindy believes that George believes that to read is easy  #
+ *  Pam thinks that Jim believes that to read is tough  #
+ *  that the dog is tough to please worries Jim  #
+ *  that Beth who ~ ~ ~ is easy to please disturbs Pam  #
+ *  Cindy thinks that Joe believes that to read is easy  #
+ *  Cindy believes that Cindy thinks that to please is easy  #
+ *  Pam believes that George believes that to please is tough  #
+ *  Cindy thinks that George believes that ~ ~ that to please is tough  #
+ *  George Jim and Cindy think that Pam thinks that ~ ~ that the cow barks and ~ jumps , don't they ?  #
+ *  that Cindy is eager to read annoys Cindy who ~ ~ ~  #
+ *  Cindy thinks that Joe believes that to read is easy  #
+ *  Cindy believes that Jim believes that to read is easy  #
+ *  Cindy believes that Jim thinks that the horse barks and ~ ~ jumps , doesn't she ?  #
+ *  Pam thinks that George believes that ~ ~ that ~ ~ ~ ~ the cow meows and ~ ~ flies , doesn't she ?  #
+ *  Pam Joe and Jim think that Pam believes that George meows and ~ laughs , don't they ?  #
+ *  Beth believes that George believes that the horse barks and ~ ~ jumps , doesn't she ?  #
+ *  Beth thinks that Jim believes that ~ ~ that ~ ~ ~ ~ Jim who ~ ~ ~ barks and ~ ~ jumps , doesn't she ?  #
+ *  Beth believes that Joe thinks that ~ ~ that to read is easy  #
+ *  that Cindy is tough to read bothers the dog  #
+ *  Pam believes that Jim believes that George meows and ~ ~ laughs , doesn't she ?  #
+ *  that the bird is tough to read bothers Joe who ~ ~ ~  #
+ *  Beth thinks that George thinks that to read is tough  #
+ *  that the cow is easy to please bothers the cat  #
+ *  Cindy believes that George believes that to read is tough  #
+ *  Beth believes that Cindy thinks that ~ ~ that ~ ~ ~ to read is tough  #
+ *  Beth thinks that Joe believes that ~ ~ that ~ ~ ~ Beth who ~ ~ meows and ~ jumps , doesn't she ?  #
+ *  Pam thinks that Cindy believes that ~ ~ that ~ ~ ~ ~ the cow barks and ~ ~ flies , doesn't she ?  #
+ *  Cindy believes that Beth thinks that to please is tough  #
+ *  that the cat is easy to read bothers the bird  #
+ *  Beth believes that Beth thinks that ~ ~ that ~ ~ ~ to read is easy  #
+ *  Cindy believes that George believes that to read is easy  #
+ *  Cindy thinks that Cindy believes that ~ ~ that ~ ~ ~ ~ to read is tough  #
+ *  Pam believes that Jim believes that to read is tough  #
+ *  that the cow is easy to read disturbs Pam who ~ ~ ~  #
+ *  Beth believes that Joe thinks that ~ ~ that the cat barks and ~ ~ jumps , doesn't she ?  #
+ *  that Beth is easy to please disturbs Cindy who ~ ~  #
+ *  Cindy believes that George believes that ~ ~ that ~ ~ ~ to read is tough  #
+ *  Cindy believes that George thinks that to read is easy  #
+ *  that Jim is tough to read worries the horse  #
+ *  Beth believes that Joe thinks that the cow meows and ~ ~ jumps , doesn't she ?  #
+ *  Cindy believes that Pam thinks that Cindy barks and ~ ~ jumps , doesn't she ?  #
+ *  Cindy thinks that Cindy believes that ~ ~ that to please is easy  #
+ *  Beth thinks that Joe thinks that ~ ~ that to read is tough  #
+ *  Beth believes that Jim thinks that to read is tough  #
+ *  Beth thinks that Jim believes that the dog barks and ~ ~ jumps , doesn't she ?  #
+ *  Cindy thinks that Cindy believes that ~ ~ that ~ ~ ~ ~ to please is easy  #
+ *  that George who ~ ~ is easy to please worries Joe  #
+ *  Beth believes that Cindy thinks that ~ ~ that Pam meows and ~ laughs , doesn't she ?  #
+ *  Pam and George believe that Cindy thinks that the horse barks and ~ ~ jumps , don't they ?  #
+ *  Pam believes that George believes that ~ ~ that ~ ~ ~ ~ the cat meows and ~ flies , doesn't she ?  #
+ *  Beth thinks that Joe believes that ~ ~ that the horse barks and ~ ~ laughs , doesn't she ?  #
+ *  Cindy Cindy and Joe believe that Pam believes that the cat meows and ~ laughs , don't they ?  #
+ *  Cindy believes that Cindy believes that George barks and ~ ~ laughs , doesn't she ?  #
+ *  Pam thinks that Joe believes that ~ ~ that ~ ~ ~ ~ the dog meows and ~ ~ jumps , doesn't she ?  #
+ *  George and Cindy believe that Joe thinks that ~ ~ that the dog barks and ~ jumps , don't they ?  #
+ *  Cindy and Joe think that Cindy thinks that Cindy meows and ~ jumps , don't they ?  #
+ *  Cindy and Jim believe that Pam thinks that Beth who ~ ~ meows and ~ ~ jumps , don't they ?  #
+ *  Beth believes that Cindy thinks that to read is easy  #
+ *  Beth thinks that Cindy thinks that ~ ~ that ~ ~ ~ to read is easy  #
+ *  Pam thinks that Joe believes that ~ ~ that ~ ~ ~ George who ~ ~ ~ meows and ~ ~ jumps , doesn't she ?  #
+ *  Cindy believes that Joe believes that Jim meows and ~ ~ laughs , doesn't she ?  #
+ *  Beth thinks that Pam believes that to please is easy  #
+ *  Beth thinks that Beth believes that the rabbit meows and ~ jumps , doesn't she ?  #
+ *  Pam thinks that Joe believes that ~ ~ that ~ ~ ~ the cow barks and ~ ~ jumps , doesn't she ?  #
+ *  Beth thinks that Jim believes that ~ ~ that George meows and ~ ~ flies , doesn't she ?  #
+ *  Cindy believes that George thinks that ~ ~ that Joe meows and ~ ~ flies , doesn't she ?  #
+ *  Cindy thinks that Cindy believes that to please is tough  #
+ *  that the dog is eager to please disturbs the cat  #
+ *  Cindy believes that George believes that to please is easy  #
+ *  Pam believes that George thinks that the cat barks and ~ ~ jumps , doesn't she ?  #
+ *  that the cow is tough to please worries George who ~ ~ ~  #
+ *  Cindy thinks that Pam believes that ~ ~ that to please is tough  #
+ *  Pam thinks that Cindy believes that ~ ~ that ~ ~ ~ ~ to read is easy  #
+ *  Pam believes that Jim thinks that to please is easy  #
+ *  Cindy believes that Beth thinks that ~ ~ that ~ ~ ~ ~ to please is easy  #
+ *  Pam believes that George thinks that to read is easy  #
+ *  Cindy believes that Cindy thinks that the cow barks and ~ ~ jumps , doesn't she ?  #
+ *  that Jim is eager to please worries Cindy  #
+ *  Cindy thinks that Cindy thinks that to please is tough  #
+ *  Pam thinks that Pam believes that ~ ~ that George who ~ ~ meows and ~ flies , doesn't she ?  #
+ *  Beth thinks that Pam thinks that ~ ~ that to read is tough  #
+ *  Cindy believes that Beth believes that ~ ~ that ~ ~ ~ Beth who ~ ~ meows and ~ ~ flies , doesn't she ?  #
+ *  Pam believes that Jim believes that to read is easy  #
+ *  Cindy thinks that Pam thinks that to read is easy  #
+ *  Cindy thinks that Jim thinks that to read is tough  #
+ *  Cindy thinks that Joe thinks that George who ~ ~ meows and ~ ~ flies , doesn't she ?  #
+ *  Beth believes that Jim thinks that ~ ~ that the rabbit barks and ~ flies , doesn't she ?  #
+ *  that Cindy who ~ ~ ~ is eager to please bothers Joe  #
+ *  Beth believes that Beth believes that the rabbit barks and ~ ~ jumps , doesn't she ?  #
+ *  Cindy thinks that George believes that ~ ~ that to please is easy  #
+ *  Cindy thinks that Jim believes that ~ ~ that ~ ~ ~ the dog meows and ~ jumps , doesn't she ?  #
+ *  Cindy thinks that George believes that the dog meows and ~ ~ jumps , doesn't she ?  #
+ *  that Jim is easy to read disturbs the dog  #
+ *  Beth and Pam think that Cindy believes that ~ ~ that ~ ~ ~ ~ Beth meows and ~ ~ flies , don't they ?  #
+ *  Cindy thinks that Joe thinks that the horse meows and ~ ~ laughs , doesn't she ?  #
+ *  Beth believes that Cindy thinks that Joe who ~ ~ ~ meows and ~ ~ flies , doesn't she ?  #
+ *  Beth thinks that Jim thinks that the horse barks and ~ ~ flies , doesn't she ?  #
+ *  Cindy believes that Joe thinks that Cindy who ~ ~ barks and ~ ~ laughs , doesn't she ?  #
+ *  Beth thinks that Beth thinks that Cindy who ~ ~ ~ barks and ~ flies , doesn't she ?  #
+ *  that the horse is eager to read disturbs Jim  #
+ *  Cindy believes that Beth thinks that ~ ~ that ~ ~ ~ the dog meows and ~ ~ flies , doesn't she ?  #
+ *  Jim and Jim think that Cindy believes that the horse barks and ~ ~ laughs , don't they ?  #
+ *  Pam thinks that George thinks that to please is tough  #
+ *  Cindy believes that Joe believes that ~ ~ that ~ ~ ~ the cat barks and ~ ~ jumps , doesn't she ?  #
+ *  that the cow is eager to read worries the cat  #
+ *  Cindy believes that Joe believes that Jim who ~ ~ meows and ~ laughs , doesn't she ?  #
+ *  that George who ~ ~ is easy to please disturbs Joe  #
+ *  Cindy believes that Joe believes that the dog meows and ~ ~ laughs , doesn't she ?  #
+ *  Pam thinks that Jim believes that ~ ~ that ~ ~ ~ to please is tough  #
+ *  Cindy thinks that Joe believes that to read is easy  #
+ *  Cindy believes that Cindy believes that ~ ~ that ~ ~ ~ George barks and ~ laughs , doesn't she ?  #
+ *  Beth believes that Pam believes that ~ ~ that the dog barks and ~ ~ flies , doesn't she ?  #
+ *  that the horse is eager to please bothers the cow  #
+ *  Jim Cindy and Pam believe that Jim believes that ~ ~ that ~ ~ ~ the cat meows and ~ ~ jumps , don't they ?  #
+ *  Pam thinks that Pam thinks that ~ ~ that ~ ~ ~ ~ to read is easy  #
+ *  Beth thinks that Cindy thinks that ~ ~ that ~ ~ ~ ~ to please is easy  #
+ *  that the horse is easy to please disturbs the cow  #
+ *  Beth believes that Joe believes that to please is easy  #
+ *  Joe Jim and Jim believe that Joe believes that the cat meows and ~ ~ jumps , don't they ?  #
+ *  Beth thinks that Beth thinks that to please is tough  #
+ *  Jim and Beth think that Cindy believes that ~ ~ that the cow barks and ~ ~ laughs , don't they ?  #
+ *  Cindy believes that George thinks that to please is easy  #
+ *  Cindy believes that Cindy believes that ~ ~ that Jim barks and ~ ~ flies , doesn't she ?  #
+ *  Beth believes that Jim believes that to read is tough  #
+ *  Pam believes that George thinks that ~ ~ that ~ ~ ~ the bird barks and ~ ~ laughs , doesn't she ?  #
+ *  Cindy thinks that Cindy believes that ~ ~ that to read is tough  #
+ *  Beth believes that Jim believes that to read is easy  #
+ *  Beth believes that Pam thinks that to please is easy  #
+ *  Cindy believes that Pam believes that to read is tough  #
+ *  Joe and Joe believe that George believes that the bird meows and ~ ~ laughs , don't they ?  #
+ *  that the dog is easy to please bothers Jim who ~ ~ ~  #
+ *  that Cindy who ~ ~ is tough to please disturbs the cow  #
+ *  George Joe and George think that Joe believes that Joe who ~ ~ barks and ~ jumps , don't they ?  #
+ *  that Joe is easy to please annoys Beth  #
+ *  Beth believes that Pam thinks that the rabbit barks and ~ laughs , doesn't she ?  #
+ *  Beth believes that George thinks that to please is easy  #
+ *  George Pam and Pam believe that Jim believes that George barks and ~ ~ laughs , don't they ?  #
+ *  Cindy thinks that Joe thinks that ~ ~ that the cow barks and ~ ~ jumps , doesn't she ?  #
+ *  Beth believes that Joe believes that ~ ~ that to please is tough  #
+ *  Beth thinks that Jim thinks that to read is easy  #
+ *  that Beth who ~ ~ ~ is eager to please disturbs the cat  #
+ *  Beth thinks that Pam thinks that ~ ~ that ~ ~ ~ Joe who ~ ~ barks and ~ ~ jumps , doesn't she ?  #
+ *  Cindy Pam and Cindy believe that George believes that Beth barks and ~ ~ laughs , don't they ?  #
+ *  that Jim is eager to read disturbs the horse  #
+ *  Cindy believes that Jim believes that to read is tough  #
+ *  Pam believes that Joe believes that ~ ~ that the cow barks and ~ ~ jumps , doesn't she ?  #
+ *  Joe George and Cindy think that Joe believes that the horse meows and ~ ~ jumps , don't they ?  #
+ *  Cindy thinks that Beth thinks that ~ ~ that ~ ~ ~ to please is easy  #
+ *  that Joe is eager to please disturbs Pam who ~ ~  #
+ *  Cindy believes that George thinks that to read is tough  #
+ *  Pam thinks that Jim believes that to read is tough  #
+ *  that the cow is eager to please bothers Jim  #
+ *  Joe Pam and Jim believe that Beth thinks that Jim barks and ~ ~ laughs , don't they ?  #
+ *  Cindy believes that George believes that ~ ~ that ~ ~ ~ ~ Beth who ~ ~ barks and ~ ~ flies , doesn't she ?  #
+ *  that Joe is eager to please disturbs Jim who ~ ~  #
+ *  that the cat is easy to read disturbs the dog  #
+ *  that the cow is eager to please worries the cow  #
+ *  Beth thinks that Jim thinks that Jim who ~ ~ meows and ~ ~ jumps , doesn't she ?  #
+ *  Beth believes that Pam believes that to please is easy  #
+ *  Joe Cindy and Beth believe that Cindy thinks that the rabbit barks and ~ laughs , don't they ?  #
+ *  Cindy believes that Beth believes that to read is tough  #
+ *  George Jim and Pam think that Pam thinks that Pam who ~ ~ barks and ~ laughs , don't they ?  #
+ *  Cindy believes that George believes that ~ ~ that the bird barks and ~ ~ jumps , doesn't she ?  #
+ *  Joe and Cindy believe that George thinks that ~ ~ that George who ~ ~ meows and ~ ~ jumps , don't they ?  #
+ *  Cindy thinks that Pam thinks that to please is easy  #
+ *  Beth thinks that Beth believes that to read is easy  #
+ *  Cindy thinks that Beth believes that ~ ~ that to read is tough  #
+ *  Cindy thinks that Joe believes that to read is tough  #
+ *  Joe Cindy and Cindy think that Joe believes that Joe meows and ~ ~ flies , don't they ?  #
+ *  Joe and Pam think that Beth thinks that Cindy who ~ ~ ~ barks and ~ ~ flies , don't they ?  #
+ *  Beth thinks that Cindy believes that ~ ~ that ~ ~ ~ Joe who ~ ~ barks and ~ ~ jumps , doesn't she ?  #
+ *  Cindy believes that Pam believes that ~ ~ that to read is tough  #
+ *  Beth believes that Pam thinks that ~ ~ that to please is easy  #
+ *  Cindy thinks that Beth believes that the bird meows and ~ jumps , doesn't she ?  #
+ *  Beth thinks that Beth believes that ~ ~ that ~ ~ ~ ~ Joe barks and ~ ~ jumps , doesn't she ?  #
+ *  that the cow is easy to read worries George who ~ ~  #
+ *  Cindy believes that Cindy thinks that ~ ~ that to read is easy  #
+ *  Cindy believes that Joe thinks that the cat barks and ~ ~ jumps , doesn't she ?  #
+ *  Beth thinks that Joe thinks that to read is tough  #
+ *  that Cindy who ~ ~ is easy to please bothers Joe who ~ ~ ~  #
+ *  Cindy thinks that Cindy believes that ~ ~ that ~ ~ ~ the horse meows and ~ ~ flies , doesn't she ?  #
+ *  Beth thinks that George thinks that ~ ~ that ~ ~ ~ ~ to please is tough  #
+ *  Cindy believes that Cindy believes that the cow meows and ~ ~ flies , doesn't she ?  #
+ *  Cindy believes that Cindy believes that ~ ~ that ~ ~ ~ to read is easy  #
+ *  George Beth and Beth believe that Jim believes that Jim who ~ ~ meows and ~ ~ jumps , don't they ?  #
+ *  Pam believes that Pam believes that the cow barks and ~ flies , doesn't she ?  #
+ *  Cindy believes that George thinks that ~ ~ that the bird barks and ~ ~ laughs , doesn't she ?  #
+ *  Beth thinks that Cindy believes that ~ ~ that to please is easy  #
+ *  Beth believes that Cindy thinks that to please is easy  #
+ *  Jim and Jim believe that Cindy believes that ~ ~ that the cat meows and ~ ~ jumps , don't they ?  #
+ *  Pam thinks that Jim thinks that ~ ~ that ~ ~ ~ ~ to please is tough  #
+ *  Cindy believes that George believes that to read is tough  #
+ *  Cindy believes that George believes that to please is tough  #
+ *  Pam Pam and Joe believe that Jim thinks that ~ ~ that Jim who ~ ~ ~ meows and ~ flies , don't they ?  #
+ *  Cindy and Jim believe that Jim believes that ~ ~ that ~ ~ ~ ~ Jim barks and ~ ~ jumps , don't they ?  #
+ *  Pam thinks that Beth thinks that ~ ~ that to read is easy  #
+ *  that the cow is tough to read worries Cindy who ~ ~ ~  #
+ *  Pam thinks that Joe believes that ~ ~ that ~ ~ ~ to read is easy  #
+ *  Cindy thinks that Beth believes that George meows and ~ ~ jumps , doesn't she ?  #
+ *  Cindy and Cindy believe that Joe thinks that Pam who ~ ~ meows and ~ ~ jumps , don't they ?  #
+ *  Pam believes that George believes that ~ ~ that ~ ~ ~ ~ to please is tough  #
+ *  George George and Jim believe that George believes that ~ ~ that George barks and ~ ~ jumps , don't they ?  #
+ *  that the bird is eager to read bothers the dog  #
+ *  Pam believes that Jim believes that ~ ~ that to read is tough  #
+ *  Beth believes that Joe believes that ~ ~ that ~ ~ ~ ~ the cat meows and ~ ~ flies , doesn't she ?  #
+ *  Cindy thinks that Jim believes that ~ ~ that to please is easy  #
+ *  Beth and Joe think that Beth believes that ~ ~ that Cindy barks and ~ jumps , don't they ?  #
+ *  Beth believes that Joe believes that the dog barks and ~ ~ jumps , doesn't she ?  #
+ *  Pam thinks that George believes that ~ ~ that the cow meows and ~ ~ flies , doesn't she ?  #
+ *  that the bird is tough to please disturbs the rabbit  #
+ *  Beth thinks that Pam thinks that Beth who ~ ~ meows and ~ flies , doesn't she ?  #
+ *  that Cindy is eager to read disturbs the horse  #
+ *  Pam believes that Beth believes that the bird meows and ~ jumps , doesn't she ?  #
+ *  Beth believes that George believes that to read is tough  #
+ *  Cindy and George believe that George believes that ~ ~ that ~ ~ ~ ~ the bird meows and ~ ~ jumps , don't they ?  #
+ *  that the dog is eager to please bothers the dog  #
+ *  Beth thinks that George thinks that Pam barks and ~ ~ jumps , doesn't she ?  #
+ *  Joe and Cindy believe that George thinks that ~ ~ that Joe who ~ ~ barks and ~ ~ jumps , don't they ?  #
+ *  Pam thinks that George believes that ~ ~ that to read is easy  #
+ *  Cindy believes that Pam believes that ~ ~ that to please is tough  #
+ *  Pam believes that Joe thinks that George who ~ ~ ~ meows and ~ ~ laughs , doesn't she ?  #
+ *  Pam thinks that Jim thinks that ~ ~ that the cow meows and ~ ~ jumps , doesn't she ?  #
+ *  Joe George and Jim believe that Pam believes that ~ ~ that the cow barks and ~ ~ jumps , don't they ?  #
+ *  Cindy thinks that Cindy thinks that the horse meows and ~ jumps , doesn't she ?  #
+ *  that the cow is easy to read disturbs Jim who ~ ~  #
+ *  Pam believes that Cindy thinks that ~ ~ that ~ ~ ~ to please is easy  #
+ *  Cindy believes that George believes that ~ ~ that ~ ~ ~ to read is tough  #
+ *  Cindy thinks that Jim thinks that to read is tough  #
+ *  Cindy believes that Beth believes that ~ ~ that the cow barks and ~ ~ jumps , doesn't she ?  #
+ *  Pam thinks that George thinks that ~ ~ that to please is tough  #
+ *  Pam believes that Joe thinks that ~ ~ that ~ ~ ~ ~ to please is tough  #
+ *  Cindy believes that George believes that the rabbit barks and ~ jumps , doesn't she ?  #
+ *  Cindy believes that Pam thinks that ~ ~ that Pam barks and ~ ~ jumps , doesn't she ?  #
+ *  Cindy believes that Joe believes that to please is tough  #
+ *  Cindy believes that Joe believes that Cindy meows and ~ ~ laughs , doesn't she ?  #
+ *  that Cindy who ~ ~ ~ is easy to please disturbs Cindy  #
+ *  Pam believes that Joe believes that ~ ~ that to please is tough  #
+ *  Pam believes that Beth thinks that to read is easy  #
+ *  Cindy thinks that Joe believes that to read is tough  #
+ *  Cindy believes that Cindy believes that ~ ~ that ~ ~ ~ Jim who ~ ~ ~ barks and ~ ~ jumps , doesn't she ?  #
+ *  Pam thinks that Cindy believes that to read is easy  #
+ *  Beth and George think that Pam believes that ~ ~ that George who ~ ~ barks and ~ ~ jumps , don't they ?  #
+ *  Pam believes that Pam believes that the dog barks and ~ ~ flies , doesn't she ?  #
+ *  Cindy thinks that George believes that ~ ~ that Cindy barks and ~ ~ laughs , doesn't she ?  #
+ *  that the cat is easy to read disturbs Pam  #
+ *  Cindy thinks that Cindy thinks that ~ ~ that to please is easy  #
+ *  Pam thinks that Joe thinks that ~ ~ that ~ ~ ~ to please is easy  #
+ *  that the bird is eager to please worries Joe  #
+ *  Cindy and Joe think that Joe thinks that ~ ~ that Pam who ~ ~ ~ barks and ~ ~ flies , don't they ?  #
+ *  Beth believes that George thinks that the bird barks and ~ flies , doesn't she ?  #
+ *  that the dog is eager to please disturbs George  #
+ *  Cindy George and George think that Joe thinks that ~ ~ that Joe meows and ~ ~ flies , don't they ?  #
+ *  Beth believes that Jim believes that ~ ~ that Cindy meows and ~ jumps , doesn't she ?  #
+ *  Beth believes that Cindy thinks that ~ ~ that ~ ~ ~ George who ~ ~ barks and ~ flies , doesn't she ?  #
+ *  Cindy believes that Pam thinks that ~ ~ that ~ ~ ~ to please is easy  #
+ *  Jim Joe and Jim believe that Beth believes that the horse barks and ~ ~ laughs , don't they ?  #
+ *  Beth believes that Cindy believes that the dog barks and ~ ~ flies , doesn't she ?  #
+ *  that the cat is easy to please disturbs George  #
+ *  Cindy believes that George thinks that ~ ~ that ~ ~ ~ Jim barks and ~ ~ laughs , doesn't she ?  #
+ *  Pam thinks that George thinks that ~ ~ that Jim who ~ ~ meows and ~ ~ flies , doesn't she ?  #
+ *  that Joe who ~ ~ is easy to please bothers Beth  #
+ *  Jim Jim and Cindy believe that George thinks that ~ ~ that the dog meows and ~ ~ jumps , don't they ?  #
+ *  Cindy thinks that Jim believes that ~ ~ that ~ ~ ~ Cindy who ~ ~ ~ barks and ~ ~ laughs , doesn't she ?  #
+ *  that the cat is easy to please worries Cindy who ~ ~ ~  #
+ *  Cindy believes that Jim thinks that ~ ~ that ~ ~ ~ ~ to please is tough  #
+ *  Cindy thinks that Beth believes that to read is easy  #
+ *  George and George think that Joe thinks that ~ ~ that ~ ~ ~ the cat barks and ~ ~ jumps , don't they ?  #
+ *  Pam thinks that Cindy thinks that ~ ~ that the horse barks and ~ ~ jumps , doesn't she ?  #
+ *  Beth thinks that Cindy believes that ~ ~ that George who ~ ~ meows and ~ laughs , doesn't she ?  #
+ *  George and Joe believe that Jim believes that the horse barks and ~ ~ jumps , don't they ?  #
+ *  Beth George and George think that George thinks that Beth who ~ ~ ~ meows and ~ ~ jumps , don't they ?  #
+ *  that Beth is eager to read disturbs the horse  #
+ *  Cindy believes that Jim thinks that George barks and ~ ~ laughs , doesn't she ?  #
+ *  Cindy thinks that Joe believes that ~ ~ that to read is easy  #
+ *  Jim and Joe think that George believes that ~ ~ that George barks and ~ ~ jumps , don't they ?  #
+ *  Cindy believes that Joe believes that the horse barks and ~ ~ jumps , doesn't she ?  #
+ *  Cindy believes that Pam believes that ~ ~ that to read is tough  #
+ *  that the dog is easy to please worries the cow  #
+ *  Beth believes that Jim thinks that to please is easy  #
+ *  George and Joe believe that Jim thinks that Cindy meows and ~ ~ laughs , don't they ?  #
+ *  Pam Cindy and George think that Jim believes that ~ ~ that ~ ~ ~ Jim meows and ~ ~ laughs , don't they ?  #
+ *  that the cow is easy to please bothers the cow  #
+ *  Beth thinks that Beth believes that Beth barks and ~ flies , doesn't she ?  #
+ *  Pam thinks that Cindy believes that Jim who ~ ~ meows and ~ laughs , doesn't she ?  #
+ *  Pam believes that Joe thinks that ~ ~ that to read is easy  #
+ *  that the bird is easy to please annoys Joe who ~ ~ ~  #
+ *  Pam believes that Cindy thinks that ~ ~ that ~ ~ ~ to please is easy  #
+ *  Beth believes that Joe thinks that ~ ~ that ~ ~ ~ the horse barks and ~ laughs , doesn't she ?  #
+ *  Jim and George think that Pam believes that George who ~ ~ ~ meows and ~ ~ flies , don't they ?  #
+ *  Cindy believes that George believes that to read is tough  #
+ *  that George is easy to please bothers the cow  #
+ *  Beth believes that Beth thinks that to read is easy  #
+ *  Cindy George and Joe think that Joe believes that the horse barks and ~ jumps , don't they ?  #
+ *  Beth believes that Joe believes that ~ ~ that ~ ~ ~ ~ the dog barks and ~ ~ flies , doesn't she ?  #
+ *  that Pam is easy to please worries Cindy who ~ ~  #
+ *  Cindy thinks that Pam believes that ~ ~ that the dog barks and ~ ~ jumps , doesn't she ?  #
+ *  that Joe is eager to please disturbs the cat  #
+ *  that Jim is eager to read disturbs Cindy who ~ ~ ~  #
+ *  that Cindy is tough to read worries the horse  #
+ *  Beth believes that Joe believes that to please is tough  #
+ *  Cindy thinks that Cindy believes that ~ ~ that Cindy who ~ ~ ~ meows and ~ ~ laughs , doesn't she ?  #
+ *  Cindy believes that Jim thinks that ~ ~ that to please is tough  #
+ *  Beth believes that Jim believes that the dog meows and ~ ~ laughs , doesn't she ?  #
+ *  Cindy believes that Joe believes that ~ ~ that ~ ~ ~ ~ to please is easy  #
+ *  Pam thinks that Jim thinks that ~ ~ that the dog barks and ~ jumps , doesn't she ?  #
+ *  that Beth is tough to read bothers Cindy  #
+ *  Cindy thinks that Joe thinks that the dog barks and ~ ~ flies , doesn't she ?  #
+ *  that the dog is tough to read disturbs George who ~ ~  #
+ *  Cindy believes that Joe thinks that ~ ~ that ~ ~ ~ ~ the cow meows and ~ ~ laughs , doesn't she ?  #
+ *  that Jim is eager to read disturbs Joe who ~ ~  #
+ *  Beth believes that Jim believes that George who ~ ~ ~ barks and ~ ~ laughs , doesn't she ?  #
+ *  Cindy thinks that George believes that ~ ~ that to please is easy  #
+ *  Pam believes that Cindy believes that ~ ~ that to please is easy  #
+ *  Beth thinks that Jim thinks that ~ ~ that ~ ~ ~ ~ Joe barks and ~ ~ jumps , doesn't she ?  #
+ *  Cindy believes that Joe believes that ~ ~ that to read is easy  #
+ *  Cindy believes that Beth believes that the cow meows and ~ laughs , doesn't she ?  #
+ *  that Cindy who ~ ~ is easy to read annoys the horse  #
+ *  Cindy thinks that Jim believes that to please is easy  #
+ *  that the cat is easy to please disturbs Jim  #
+ *  that the horse is easy to read annoys the rabbit  #
+ *  that the rabbit is easy to please disturbs Joe  #
+ *  Cindy believes that Jim believes that the cow meows and ~ ~ jumps , doesn't she ?  #
+ *  Cindy believes that George thinks that ~ ~ that ~ ~ ~ to please is tough  #
+ *  Cindy believes that Joe thinks that ~ ~ that to read is easy  #
+ *  Cindy believes that Joe thinks that Joe who ~ ~ meows and ~ ~ laughs , doesn't she ?  #
+ *  Jim Cindy and Cindy believe that George thinks that ~ ~ that ~ ~ ~ Pam barks and ~ laughs , don't they ?  #
+ *  Beth believes that Cindy believes that to read is tough  #
+ *  Pam thinks that Joe thinks that ~ ~ that ~ ~ ~ Jim who ~ ~ meows and ~ ~ jumps , doesn't she ?  #
+ *  George and George think that Cindy believes that ~ ~ that ~ ~ ~ ~ Cindy who ~ ~ barks and ~ ~ jumps , don't they ?  #
+ *  Pam thinks that Cindy thinks that to read is tough  #
+ *  Cindy thinks that George thinks that ~ ~ that ~ ~ ~ ~ Jim meows and ~ ~ jumps , doesn't she ?  #
+ *  Cindy thinks that George thinks that ~ ~ that ~ ~ ~ to please is easy  #
+ *  Cindy thinks that George thinks that to please is tough  #
+ *  Beth thinks that Joe thinks that the dog meows and ~ ~ jumps , doesn't she ?  #
+ *  Beth believes that Cindy believes that to read is easy  #
+ *  Pam believes that George thinks that ~ ~ that to read is tough  #
+ *  Beth believes that Joe thinks that to read is easy  #
+ *  Joe George and Pam believe that Joe believes that ~ ~ that Cindy meows and ~ ~ jumps , don't they ?  #
+ *  Beth thinks that Beth thinks that to read is easy  #
+ *  Pam thinks that Pam thinks that ~ ~ that the dog barks and ~ laughs , doesn't she ?  #
+ *  Joe and Joe believe that Jim believes that ~ ~ that ~ ~ ~ ~ the dog barks and ~ jumps , don't they ?  #
+ *  Cindy believes that Cindy thinks that ~ ~ that ~ ~ ~ ~ to please is tough  #
+ *  Cindy thinks that Joe believes that ~ ~ that ~ ~ ~ ~ to read is tough  #
+ *  Pam believes that Pam believes that ~ ~ that to read is easy  #
+ *  Beth believes that Joe thinks that ~ ~ that to please is tough  #
+ *  that the cow is tough to read worries Cindy  #
+ *  Pam thinks that George believes that ~ ~ that ~ ~ ~ ~ the cow barks and ~ ~ jumps , doesn't she ?  #
+ *  that Jim who ~ ~ ~ is easy to read annoys the bird  #
+ *  Cindy thinks that Joe believes that Cindy barks and ~ ~ jumps , doesn't she ?  #
+ *  Cindy thinks that George believes that ~ ~ that ~ ~ ~ Beth barks and ~ ~ flies , doesn't she ?  #
+ *  Cindy thinks that Jim thinks that ~ ~ that ~ ~ ~ to read is easy  #
+ *  Cindy thinks that Jim believes that to please is tough  #
+ *  that the bird is tough to please disturbs the horse  #
+ *  Cindy believes that Beth believes that ~ ~ that ~ ~ ~ ~ to read is easy  #
+ *  Joe Cindy and Joe believe that Joe believes that the bird barks and ~ laughs , don't they ?  #
+ *  Cindy believes that Jim believes that the cow meows and ~ ~ flies , doesn't she ?  #
+ *  Pam thinks that George thinks that ~ ~ that ~ ~ ~ to please is tough  #
+ *  Cindy thinks that Jim believes that to read is tough  #
+ *  that the horse is eager to read annoys the rabbit  #
+ *  Beth thinks that Jim thinks that ~ ~ that ~ ~ ~ to please is easy  #
+ *  Beth believes that Beth believes that to read is easy  #
+ *  Cindy believes that Cindy thinks that ~ ~ that to read is tough  #
+ *  Cindy thinks that Joe believes that George meows and ~ ~ jumps , doesn't she ?  #
+ *  Cindy believes that George believes that ~ ~ that to read is easy  #
+ *  Beth thinks that Joe believes that the horse barks and ~ ~ laughs , doesn't she ?  #
+ *  Beth thinks that Jim believes that the cat meows and ~ ~ jumps , doesn't she ?  #
+ *  Cindy believes that Beth thinks that ~ ~ that ~ ~ ~ ~ to please is tough  #
+ *  Cindy thinks that Jim believes that ~ ~ that the dog barks and ~ ~ laughs , doesn't she ?  #
+ *  Beth believes that George thinks that ~ ~ that to read is tough  #
+ *  Cindy thinks that Joe believes that ~ ~ that Joe who ~ ~ meows and ~ ~ jumps , doesn't she ?  #
+ *  Jim Jim and George think that Pam believes that the horse meows and ~ ~ flies , don't they ?  #
+ *  Beth believes that Joe believes that ~ ~ that to please is easy  #
+ *  Beth believes that George believes that the cat meows and ~ laughs , doesn't she ?  #
+ *  George and George think that Jim believes that ~ ~ that the cat barks and ~ ~ jumps , don't they ?  #
+ *  Beth thinks that Joe thinks that ~ ~ that ~ ~ ~ ~ to read is easy  #
+ *  Beth believes that Cindy believes that ~ ~ that to please is easy  #
+ *  Cindy thinks that Beth thinks that to read is tough  #
+ *  Cindy thinks that Pam thinks that ~ ~ that ~ ~ ~ ~ the cat barks and ~ ~ jumps , doesn't she ?  #
+ *  Joe George and Jim think that Pam believes that ~ ~ that Joe meows and ~ ~ jumps , don't they ?  #
+ *  Beth thinks that Beth thinks that ~ ~ that ~ ~ ~ to please is easy  #
+ *  that the dog is tough to read worries the horse  #
+ *  Cindy thinks that Pam believes that ~ ~ that ~ ~ ~ to read is tough  #
+ *  Cindy believes that Cindy thinks that to read is easy  #
+ *  Jim and George believe that Joe thinks that ~ ~ that the dog meows and ~ ~ jumps , don't they ?  #
+ *  Pam believes that Joe believes that to read is tough  #
+ *  Cindy thinks that Cindy thinks that Pam barks and ~ ~ flies , doesn't she ?  #
+ *  that Jim is easy to read bothers Joe who ~ ~  #
+ *  Cindy believes that George thinks that ~ ~ that ~ ~ ~ ~ to read is tough  #
+ *  Cindy thinks that Cindy believes that to please is tough  #
+ *  Cindy believes that Cindy believes that ~ ~ that ~ ~ ~ the dog barks and ~ ~ flies , doesn't she ?  #
+ *  Beth thinks that Beth believes that Jim who ~ ~ meows and ~ ~ jumps , doesn't she ?  #
+ *  Beth Cindy and Jim think that Beth thinks that ~ ~ that ~ ~ ~ ~ Jim who ~ ~ ~ barks and ~ ~ flies , don't they ?  #
+ *  Joe and Joe believe that Joe believes that ~ ~ that ~ ~ ~ Joe barks and ~ ~ flies , don't they ?  #
+ *  Cindy thinks that Jim thinks that to read is easy  #
+ *  Beth thinks that George believes that ~ ~ that ~ ~ ~ the cat meows and ~ ~ jumps , doesn't she ?  #
+ *  that the horse is eager to please bothers the dog  #
+ *  George Joe and Pam believe that Beth believes that Pam barks and ~ ~ laughs , don't they ?  #
+ *  Cindy thinks that Beth believes that ~ ~ that George meows and ~ ~ laughs , doesn't she ?  #
+ *  Pam believes that Joe thinks that ~ ~ that to read is tough  #
+ *  Cindy thinks that Joe believes that ~ ~ that to read is tough  #
+ *  Jim Cindy and Jim think that George believes that ~ ~ that ~ ~ ~ the dog barks and ~ ~ jumps , don't they ?  #
+ *  Pam thinks that Joe thinks that to read is tough  #
+ *  Jim and George think that Jim believes that ~ ~ that Cindy barks and ~ ~ flies , don't they ?  #
+ *  that the cow is easy to read disturbs the cat  #
+ *  Pam thinks that Cindy believes that George meows and ~ jumps , doesn't she ?  #
+ *  Cindy believes that Beth thinks that ~ ~ that to read is easy  #
+ *  Cindy thinks that Joe believes that to please is easy  #
+ *  that Pam is easy to please worries the bird  #
+ *  Cindy thinks that George thinks that ~ ~ that the horse meows and ~ ~ laughs , doesn't she ?  #
+ *  that the dog is eager to please annoys Joe  #
+ *  that the dog is easy to please annoys the cat  #
+ *  George and George believe that Beth believes that Pam who ~ ~ ~ barks and ~ ~ jumps , don't they ?  #
+ *  Pam thinks that Beth believes that to please is tough  #
+ *  Pam believes that Joe believes that to please is easy  #
+ *  Pam thinks that George believes that ~ ~ that ~ ~ ~ the horse barks and ~ ~ laughs , doesn't she ?  #
+ *  Cindy thinks that Jim believes that ~ ~ that ~ ~ ~ ~ Jim who ~ ~ barks and ~ ~ flies , doesn't she ?  #
+ *  Cindy believes that Joe thinks that to read is easy  #
+ *  Cindy thinks that Jim believes that ~ ~ that the rabbit meows and ~ ~ laughs , doesn't she ?  #
+ *  Joe and Pam believe that George thinks that the horse meows and ~ ~ jumps , don't they ?  #
+ *  that George who ~ ~ is easy to please worries George who ~ ~ ~  #
+ *  Beth believes that Jim believes that ~ ~ that to please is tough  #
+ *  that the cat is eager to read worries the horse  #
+ *  Beth thinks that George believes that ~ ~ that to read is tough  #
+ *  Beth thinks that Beth thinks that to please is easy  #
+ *  Pam thinks that Jim believes that to read is easy  #
+ *  Beth thinks that Beth believes that ~ ~ that ~ ~ ~ ~ Pam who ~ ~ meows and ~ laughs , doesn't she ?  #
+ *  Cindy thinks that Jim believes that ~ ~ that ~ ~ ~ to read is tough  #
+ *  that Pam is tough to read disturbs the cat  #
+ *  Cindy thinks that George believes that ~ ~ that the cow meows and ~ ~ flies , doesn't she ?  #
+ *  that George is easy to please disturbs the horse  #
+ *  Beth thinks that Pam thinks that to please is easy  #
+ *  Cindy believes that George thinks that Jim who ~ ~ barks and ~ ~ jumps , doesn't she ?  #
+ *  that Jim is eager to please worries the dog  #
+ *  Beth thinks that Joe thinks that ~ ~ that ~ ~ ~ to please is easy  #
+ *  Cindy believes that Cindy thinks that the horse meows and ~ ~ flies , doesn't she ?  #
+ *  Beth thinks that Joe believes that ~ ~ that to please is easy  #
+ *  Beth thinks that Jim thinks that to please is easy  #
+ *  Beth thinks that George thinks that ~ ~ that to please is tough  #
+ *  Beth thinks that Jim believes that the horse barks and ~ jumps , doesn't she ?  #
+ *  Cindy believes that Pam believes that ~ ~ that Joe meows and ~ ~ jumps , doesn't she ?  #
+ *  Joe and Jim believe that Beth believes that the cow meows and ~ ~ jumps , don't they ?  #
+ *  Beth believes that Jim thinks that ~ ~ that ~ ~ ~ ~ the cat meows and ~ jumps , doesn't she ?  #
+ *  Cindy thinks that Joe thinks that ~ ~ that ~ ~ ~ ~ to please is tough  #
+ *  Cindy Cindy and Beth believe that Joe believes that ~ ~ that Jim barks and ~ ~ flies , don't they ?  #
+ *  that Joe is easy to read disturbs Pam who ~ ~  #
+ *  Pam believes that George thinks that ~ ~ that ~ ~ ~ ~ George who ~ ~ ~ meows and ~ ~ jumps , doesn't she ?  #
+ *  Beth thinks that Joe believes that to please is easy  #
+ *  Cindy believes that George believes that ~ ~ that ~ ~ ~ to please is tough  #
+ *  Cindy believes that George believes that ~ ~ that ~ ~ ~ the cow meows and ~ ~ jumps , doesn't she ?  #
+ *  that Jim is easy to please annoys the cow  #
+ *  Cindy Cindy and Beth believe that Jim believes that ~ ~ that ~ ~ ~ George meows and ~ flies , don't they ?  #
+ *  that the horse is easy to please disturbs the cow  #
+ *  that Cindy who ~ ~ is easy to please bothers Beth who ~ ~  #
+ *  that the cow is easy to read worries George who ~ ~ ~  #
+ *  Cindy believes that Cindy thinks that ~ ~ that ~ ~ ~ ~ to read is easy  #
+ *  Cindy thinks that Joe believes that ~ ~ that to please is easy  #
+ *  Pam believes that Pam thinks that ~ ~ that the cow meows and ~ flies , doesn't she ?  #

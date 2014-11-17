@@ -1,0 +1,153 @@
+
+
+ADIOS V1.00 (Automatic DistIlation Of Strctures)
+Mon Sep 23 23:45:10 2013
+
+Verbosity level: 0
+Context window-length: 5
+Coverage: 0.65
+Eta: 0.8
+P-value: 0.01
+Rewiring mode: Single
+Number of patterns: 2
+Number of equivalence classes: 2
+Initial Size: 718168 (bits)
+Total size after learning: 717768 (bits)
+Compression: 99.9443%
+
+Table of extracted patterns:
+ID: unique id 
+seq: sequence 
+p-value: significance 
+gen: generalization factor [1..0] 
+len: length
+occ: occurrences in corpus
+ID	seq	p-value	gen	len	occ
+P3487	(के,E3488,भागों)	0.00031369925	1	3	11
+E3488	{विभिन्न,मुलायम}
+P3489	(E3490,की,भाषा,में)	0.0084800124	1	4	6
+E3490	{विज्ञान,बोल-चाल}
+
+
+Pattern Spectra:
+histogram of pattern types, whose bins are labeled by sequences
+such as (T,P) or (E,E,T) E standing for equivalence class, T for
+tree-terminal (original unit) and P for Pattern.
+
+(T,T)	0
+(T,E)	0
+(T,P)	0
+(E,T)	0
+(E,E)	0
+(E,P)	0
+(P,T)	0
+(P,E)	0
+(P,P)	0
+(T,T,T)	0
+(T,T,E)	0
+(T,T,P)	0
+(T,E,T)	0.5
+(T,E,E)	0
+(T,E,P)	0
+(T,P,T)	0
+(T,P,E)	0
+(T,P,P)	0
+(E,T,T)	0
+(E,T,E)	0
+(E,T,P)	0
+(E,E,T)	0
+(E,E,E)	0
+(E,E,P)	0
+(E,P,T)	0
+(E,P,E)	0
+(E,P,P)	0
+(P,T,T)	0
+(P,T,E)	0
+(P,T,P)	0
+(P,E,T)	0
+(P,E,E)	0
+(P,E,P)	0
+(P,P,T)	0
+(P,P,E)	0
+(P,P,P)	0
+(T,T,T,T)	0
+(T,T,T,E)	0
+(T,T,T,P)	0
+(T,T,E,T)	0
+(T,T,E,E)	0
+(T,T,E,P)	0
+(T,T,P,T)	0
+(T,T,P,E)	0
+(T,T,P,P)	0
+(T,E,T,T)	0
+(T,E,T,E)	0
+(T,E,T,P)	0
+(T,E,E,T)	0
+(T,E,E,E)	0
+(T,E,E,P)	0
+(T,E,P,T)	0
+(T,E,P,E)	0
+(T,E,P,P)	0
+(T,P,T,T)	0
+(T,P,T,E)	0
+(T,P,T,P)	0
+(T,P,E,T)	0
+(T,P,E,E)	0
+(T,P,E,P)	0
+(T,P,P,T)	0
+(T,P,P,E)	0
+(T,P,P,P)	0
+(E,T,T,T)	0.5
+(E,T,T,E)	0
+(E,T,T,P)	0
+(E,T,E,T)	0
+(E,T,E,E)	0
+(E,T,E,P)	0
+(E,T,P,T)	0
+(E,T,P,E)	0
+(E,T,P,P)	0
+(E,E,T,T)	0
+(E,E,T,E)	0
+(E,E,T,P)	0
+(E,E,E,T)	0
+(E,E,E,E)	0
+(E,E,E,P)	0
+(E,E,P,T)	0
+(E,E,P,E)	0
+(E,E,P,P)	0
+(E,P,T,T)	0
+(E,P,T,E)	0
+(E,P,T,P)	0
+(E,P,E,T)	0
+(E,P,E,E)	0
+(E,P,E,P)	0
+(E,P,P,T)	0
+(E,P,P,E)	0
+(E,P,P,P)	0
+(P,T,T,T)	0
+(P,T,T,E)	0
+(P,T,T,P)	0
+(P,T,E,T)	0
+(P,T,E,E)	0
+(P,T,E,P)	0
+(P,T,P,T)	0
+(P,T,P,E)	0
+(P,T,P,P)	0
+(P,E,T,T)	0
+(P,E,T,E)	0
+(P,E,T,P)	0
+(P,E,E,T)	0
+(P,E,E,E)	0
+(P,E,E,P)	0
+(P,E,P,T)	0
+(P,E,P,E)	0
+(P,E,P,P)	0
+(P,P,T,T)	0
+(P,P,T,E)	0
+(P,P,T,P)	0
+(P,P,E,T)	0
+(P,P,E,E)	0
+(P,P,E,P)	0
+(P,P,P,T)	0
+(P,P,P,E)	0
+(P,P,P,P)	0

@@ -1,0 +1,47 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+import re
+
+
+######for word file
+
+f=open('3.txt')
+g=open('hindi_stopwords.txt')
+worddict = {}
+for line in g:					
+	ele=line.split()
+	ele[0] = ele[0].strip();
+	worddict[ele[0]] = 0
+
+for line in f:
+	x=line.split()
+	for word in x:
+		if word.strip() in worddict:
+			line=line.replace(word.strip()+"\n",'')
+		if((word.strip() in worddict) and x[0]==word.strip()):
+			line =line.replace(x[0]+" ","")
+	print line.strip()
+		
+#for x in worddict:
+#	print x
+'''
+#### for corpus
+f= open("hindi_stopwords.txt")
+g=open("final_hindi.txt")
+worddict = {}
+for line in f:					
+	ele=line.split()
+	ele[0] = ele[0].strip();
+	worddict[ele[0]] = 0
+for line in g:
+	x=line.split()
+	for word in x:
+		if word.strip() in worddict:
+			line=line.replace(" "+word.strip()+" ",' ')
+			line=line.replace(" "+word.strip()+"\n",' ')
+		if((word.strip() in worddict) and x[0]==word.strip()):
+			line =line.replace(x[0]+" ","")
+	print line.strip()
+
+'''
+

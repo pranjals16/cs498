@@ -1,0 +1,44 @@
+0	<EOL>	
+1	#	
+2	*	
+3	Beth	30	36	
+4	Cindy	30	36	
+5	George	30	
+6	Jim	30	
+7	Joe	30	
+8	Pam	30	36	
+9	annoys	
+10	believes	32	
+11	bird	34	
+12	bothers	
+13	cat	34	
+14	cow	34	
+15	disturbs	
+16	dog	34	
+17	eager	40	
+18	easy	40	
+19	horse	34	
+20	is	
+21	please	38	
+22	rabbit	34	
+23	read	38	
+24	that	
+25	the	
+26	thinks	32	
+27	to	
+28	tough	40	
+29	worries	
+30	30	
+31	31	
+32	32	
+33	33	
+34	34	
+35	35	
+36	36	
+37	37	
+38	38	
+39	39	
+40	40	
+41	41	
+42	42	
+43	43	

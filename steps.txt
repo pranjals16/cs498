@@ -1,0 +1,21 @@
+1) show that equivalence classes are different for commentary and random data
+
+2) extract features such as unigrams,bigrams, POS, VERB CLASS, voice(voice of verbs)(generally similar texts are in same voice)
+
+				OR
+3) remove punctuations
+4) PCFG and then PLSA
+
+IDEA:
+a same topic document will have strong clustering in PLSA with.
+stemming using porter's suffix-stripping
+words with same meaning can be clustered together because they reduce recall
+words with multiple meanings reduce precision. they can occur in multiple topics
+less frequent words should be kept only upto a threshold
+
+
+*** using this method we can also predict some important categories in a document and can be used to filter sentences corresponding to it
+** if there are many important categories with very less clustering around each one of them, it means corpus is distributed
+
+
+Problem: How to set k in PLSA/k-means clustering

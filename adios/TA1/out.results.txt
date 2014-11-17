@@ -1,0 +1,235 @@
+
+
+ADIOS V1.00 (Automatic DistIlation Of Strctures)
+Tue Apr  3 10:21:03 2012
+
+Verbosity level: 0
+Context window-length: 5
+Coverage: 0.65
+Eta: 0.9
+P-value: 0.01
+Rewiring mode: none
+Number of patterns: 56
+Number of equivalence classes: 56
+Total size after learning: 21264 (bits)
+
+Table of extracted patterns:
+ID: unique id 
+seq: sequence 
+p-value: significance 
+gen: generalization factor [1..0] 
+len: length
+occ: occurrences in corpus
+ID	seq	p-value	gen	len	occ
+P53	(E54)	1	0	0	0
+E54	{a,the}
+P55	(E56)	1	0	0	0
+E56	{,}
+P57	(E58)	1	0	0	0
+E58	{barks,meows}
+P59	(E60)	1	0	0	0
+E60	{flies,jumps,laughs}
+P61	(E62)	1	0	0	0
+E62	{that}
+P63	(E64)	1	0	0	0
+E64	{annoys,bothers,disturbs,worries}
+P65	(E66)	1	0	0	0
+E66	{eager,easy,tough}
+P67	(E68)	1	0	0	0
+E68	{easy,tough}
+P69	(E70)	1	0	0	0
+E70	{please,read}
+P71	(E72)	1	0	0	0
+E72	{bird,cat,cow,dog,horse,rabbit}
+P73	(E74)	1	0	0	0
+E74	{Beth,Cindy,George,Jim,Joe,Pam}
+P75	(E76)	1	0	0	0
+E76	{Beth,Cindy,Pam}
+P77	(E78)	1	0	0	0
+E78	{?}
+P79	(E80)	1	0	0	0
+E80	{adores,loves,scolds,worships}
+P81	(E82)	1	0	0	0
+E82	{believes,thinks}
+P83	(E84)	1	0	0	0
+E84	{believe,think}
+P85	(E86)	1	0	0	0
+E86	{P87}
+P87	(P55,doesn't,she,P77)	1	0	0	0
+P88	(E89)	1	0	0	0
+E89	{P90}
+P90	(is,P65)	1	0	0	0
+P91	(E92)	1	0	0	0
+E92	{P93}
+P93	(is,P67)	1	0	0	0
+P94	(E95)	1	0	0	0
+E95	{P96}
+P96	(to,P69)	1	0	0	0
+P97	(E98)	1	0	0	0
+E98	{P99,P100}
+P99	(P73,and,P73,P83)	1	0	0	0
+P100	(P73,P73,and,P73,P83)	1	0	0	0
+P101	(E102)	1	0	0	0
+E102	{P103}
+P103	(P55,don't,they,P77)	1	0	0	0
+P104	(E105)	1	0	0	0
+E105	{P106,P108}
+P106	(P53,P71)	1	0	0	0
+P108	(E107)	1	0	0	0
+P109	(E110)	1	0	0	0
+E110	{P111}
+P111	(who,P79,E105)	1	0	0	0
+P112	(E113)	1	0	0	0
+E113	{P114}
+P114	(E105,P59)	1	0	0	0
+P115	(E107)	1	0	0	0
+E107	{P116,P117}
+P116	(P73,E110)	1	0	0	0
+P117	(P73)	1	0	0	0
+P118	(E119)	1	0	0	0
+E119	{P120}
+P120	(P57,and,E113)	1	0	0	0
+P121	(E122)	1	0	0	0
+E122	{P123,P124}
+P123	(the,P71)	1	0	0	0
+P124	(E107)	1	0	0	0
+P125	(E126)	1	0	0	0
+E126	{P127,P128}
+P127	(P73,P81,that,E126)	1	0	0	0
+P128	(P73,P81,that)	1	0	0	0
+P129	(E130)	1	0	0	0
+E130	{P131}
+P131	(P75,P81,that,E126)	1	0	0	0
+P132	(E133)	1	0	0	0
+E133	{P134}
+P134	(E98,that,E126)	1	0	0	0
+P135	(E136)	1	0	0	0
+E136	{P137,P138,P139,P140}
+P137	(E133,E122,E119,E102)	1	0	0	0
+P138	(E130,E122,E119,E86)	1	0	0	0
+P139	(E130,E95,E92)	1	0	0	0
+P140	(P61,E122,E89,E95,P63,E122)	1	0	0	0
+
+
+Pattern Spectra:
+histogram of pattern types, whose bins are labeled by sequences
+such as (T,P) or (E,E,T) E standing for equivalence class, T for
+tree-terminal (original unit) and P for Pattern.
+
+(T,T)	0
+(T,E)	0
+(T,P)	0.071428571
+(E,T)	0
+(E,E)	0
+(E,P)	0.017857143
+(P,T)	0
+(P,E)	0.017857143
+(P,P)	0.017857143
+(T,T,T)	0
+(T,T,E)	0
+(T,T,P)	0
+(T,E,T)	0
+(T,E,E)	0
+(T,E,P)	0
+(T,P,T)	0
+(T,P,E)	0.017857143
+(T,P,P)	0
+(E,T,T)	0
+(E,T,E)	0.017857143
+(E,T,P)	0
+(E,E,T)	0
+(E,E,E)	0.017857143
+(E,E,P)	0
+(E,P,T)	0
+(E,P,E)	0
+(E,P,P)	0
+(P,T,T)	0
+(P,T,E)	0.017857143
+(P,T,P)	0
+(P,E,T)	0
+(P,E,E)	0
+(P,E,P)	0
+(P,P,T)	0.017857143
+(P,P,E)	0
+(P,P,P)	0
+(T,T,T,T)	0
+(T,T,T,E)	0
+(T,T,T,P)	0
+(T,T,E,T)	0
+(T,T,E,E)	0
+(T,T,E,P)	0
+(T,T,P,T)	0
+(T,T,P,E)	0
+(T,T,P,P)	0
+(T,E,T,T)	0
+(T,E,T,E)	0
+(T,E,T,P)	0
+(T,E,E,T)	0
+(T,E,E,E)	0
+(T,E,E,P)	0
+(T,E,P,T)	0
+(T,E,P,E)	0
+(T,E,P,P)	0
+(T,P,T,T)	0
+(T,P,T,E)	0
+(T,P,T,P)	0
+(T,P,E,T)	0
+(T,P,E,E)	0
+(T,P,E,P)	0
+(T,P,P,T)	0
+(T,P,P,E)	0
+(T,P,P,P)	0
+(E,T,T,T)	0
+(E,T,T,E)	0
+(E,T,T,P)	0
+(E,T,E,T)	0
+(E,T,E,E)	0
+(E,T,E,P)	0
+(E,T,P,T)	0
+(E,T,P,E)	0
+(E,T,P,P)	0
+(E,E,T,T)	0
+(E,E,T,E)	0
+(E,E,T,P)	0
+(E,E,E,T)	0
+(E,E,E,E)	0.035714286
+(E,E,E,P)	0
+(E,E,P,T)	0
+(E,E,P,E)	0
+(E,E,P,P)	0
+(E,P,T,T)	0
+(E,P,T,E)	0
+(E,P,T,P)	0
+(E,P,E,T)	0
+(E,P,E,E)	0
+(E,P,E,P)	0
+(E,P,P,T)	0
+(E,P,P,E)	0
+(E,P,P,P)	0
+(P,T,T,T)	0
+(P,T,T,E)	0
+(P,T,T,P)	0.035714286
+(P,T,E,T)	0
+(P,T,E,E)	0
+(P,T,E,P)	0
+(P,T,P,T)	0
+(P,T,P,E)	0
+(P,T,P,P)	0.017857143
+(P,E,T,T)	0
+(P,E,T,E)	0
+(P,E,T,P)	0
+(P,E,E,T)	0
+(P,E,E,E)	0
+(P,E,E,P)	0
+(P,E,P,T)	0
+(P,E,P,E)	0
+(P,E,P,P)	0
+(P,P,T,T)	0
+(P,P,T,E)	0.035714286
+(P,P,T,P)	0
+(P,P,E,T)	0
+(P,P,E,E)	0
+(P,P,E,P)	0
+(P,P,P,T)	0
+(P,P,P,E)	0
+(P,P,P,P)	0

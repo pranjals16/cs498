@@ -1,0 +1,25 @@
+ADIOS V1.00 (Automatic DistIlation Of Strctures)
+Thu Mar 22 20:08:28 2012
+
+Verbosity level: 0
+Context window-length: 5
+Coverage: 0.65
+Eta: 0.9
+P-value: 0.01
+Rewiring mode: Single
+itrs = number of iterations
+#ptrs = number of patterns
+#ecs = number of equiavlence classes
+#edges = number of edges
+entropy = entropy (bits)
+size = size (bits)
+comp = compression (%)
+itrs	#ptrs	#ecs	#edges	entropy	size	comp
+0	0	0	202161	2.4	3234872	100
+100	26	8	195522	2.37	3130648	96.8
+200	42	11	193528	2.35	3099992	95.8
+300	65	15	190292	2.34	3049688	94.3
+400	79	17	189635	2.34	3040104	94
+500	85	20	189142	2.33	3032744	93.8
+600	92	23	188488	2.33	3022856	93.4
+700	98	26	188157	2.33	3018072	93.3

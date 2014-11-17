@@ -1,0 +1,5 @@
+f=open("english_corpus.txt")
+for line in f:
+	line=line.strip()
+	line="* "+line+" #"
+	print line.strip()

@@ -1,0 +1,279 @@
+
+
+ADIOS V1.00 (Automatic DistIlation Of Strctures)
+Thu Mar 22 20:13:34 2012
+
+Verbosity level: 0
+Context window-length: 5
+Coverage: 0.65
+Eta: 0.9
+P-value: 0.01
+Rewiring mode: Single
+Number of patterns: 101
+Number of equivalence classes: 101
+Initial Size: 3234872 (bits)
+Total size after learning: 3016488 (bits)
+Compression: 93.2491%
+
+Table of extracted patterns:
+ID: unique id 
+seq: sequence 
+p-value: significance 
+gen: generalization factor [1..0] 
+len: length
+occ: occurrences in corpus
+ID	seq	p-value	gen	len	occ
+P6360	(look,at)	0.0002810359	1	2	93
+P6361	(xx,xx)	0	1	2	314
+P6362	(in,the)	0	1	2	429
+P6363	(E6364,you,going,to)	0	1	4	81
+E6364	{Cathy,are,what're}
+P6365	(a,wee)	0	1	2	409
+P6366	(isn't,that)	2.3245811e-05	1	2	45
+P6367	(and,I,says)	1.013279e-05	1	3	101
+P6368	(go,and,get)	0.00024968386	1	3	38
+P6369	(I,don't)	8.4042549e-06	1	2	391
+P6370	(come,on)	0	1	2	112
+P6371	(a,whole,lot,of)	0.0072343946	1	4	9
+P6372	(a,good)	0	1	2	92
+P6373	(as,I)	0	1	2	65
+P6374	(you,see)	0.0030015707	1	2	241
+P6375	(E6376,you)	0	1	2	906
+E6376	{did,do}
+P6377	(that,was)	0.00010842085	1	2	125
+P6378	(P6375,know,E6379)	0.0028284192	0.5	4	50
+E6379	{who,have,what,where}
+P6380	(P6369,know)	7.3373318e-05	1	3	190
+P6381	(an,awful,lot)	2.7418137e-06	1	3	21
+P6382	(what's,that)	0	1	2	119
+P6383	(E6384,was)	0.00010478497	1	2	1046
+E6384	{she,it,I}
+P6385	(E6386,E6387,you)	7.5697899e-06	0.66666669	3	131
+E6386	{who,what,where}
+E6387	{bought,would,are,else,were}
+P6388	(E6389,E6384)	3.5762787e-07	1	2	512
+E6389	{so,cause,uhhuh,but,oh,yes}
+P6390	(E6391,bit,of)	4.4584274e-05	1	3.5	52
+E6391	{a,P6365}
+P6392	(and,E6384)	5.4240227e-06	1	2	520
+P6393	(I'm,trying,to)	0	1	3	13
+P6394	(we,toyed,with,the,idea,of)	1.9848347e-05	1	6	6
+P6395	(to,get)	0.0065408945	1	2	198
+P6396	(is,that)	0	1	2	153
+P6397	(but,P6373,say)	7.7486038e-07	1	4	10
+P6398	(this,is)	5.9843063e-05	1	2	68
+P6399	(P6375,want,E6400,to)	0	0.5	5	20
+E6400	{something,me,anything,Mummy}
+P6401	(morprowhwhatvcopbeS,prodemthat,xgraPRED,ROOT,SUBJ)	1.5854836e-05	1	5	9
+P6402	(going,to)	0	1	2	431
+P6403	(tell,Cathy,what)	0.00078058243	1	3	24
+P6404	(c'mere,come,here)	0	1	3	10
+P6405	(morcoordand,prowhwhatvcopbeS,prodemthat)	0	1	3	7
+P6406	(E6407,not)	0.0023114681	1	2	195
+E6407	{I'm,you're}
+P6408	(P6375,want,E6391,E6409,of)	0	0.3125	6.5	20
+E6409	{drink,glass,bite,cup}
+P6410	(I,know)	0	1	2	538
+P6411	(xgraAUX,SUBJ,ROOT)	0.0079316497	1	3	18
+P6412	(a,bit)	0	1	2	67
+P6413	(E6384,says)	0.0022409558	1	2	254
+P6414	(you,don't)	0.0042082667	1	2	134
+P6415	(out,of,the)	0.0087493062	1	3	41
+P6416	(INF,XCOMP)	0.0039595366	1	2	8
+P6417	(it,must,be)	0.00061202049	1	3	11
+P6418	(on,the)	0.0043962002	1	2	197
+P6419	(E6420,want,to)	3.0696392e-05	1	3.3333335	99
+E6420	{P6375,wanna,you}
+P6421	(E6422,know)	0	1	2.3333335	650
+E6422	{P6375,you}
+P6423	(P6385,doing)	0.00019341707	0.13333334	4	40
+P6424	(you,can)	0.0069656372	1	2	134
+P6425	(E6387,you)	0.0012149811	1	2	238
+P6426	(the,last,time)	1.9073486e-06	1	3	23
+P6427	(P6375,call)	0	1	3	50
+P6428	(AUX,SUBJ)	0.0040724874	1	2	25
+P6429	(what,E6430,E6384)	0.0094351172	0.55555558	3.4000001	70
+E6430	{will,P6427,did,is,does}
+P6431	(xgraOBJ,P6428)	0.0027108788	1	3	13
+P6432	(he,was)	0	1	2	265
+P6433	(across,the)	2.9802322e-07	1	2	18
+P6434	(what,E6430)	0.004543364	0.83333331	2.4000001	153
+P6435	(E6436,what,E6384)	0.0012453198	0.66666669	3.5	29
+E6436	{P6398,that's}
+P6437	(to,the)	0.008402288	1	2	180
+P6438	(what's,he,doing)	0.0056245327	1	3	13
+P6439	(and,then)	7.0929527e-06	1	2	305
+P6440	(off,by)	0.0042799711	1	2	5
+P6441	(E6442,P6375,like,that)	0.0042799711	0.5	5	5
+E6442	{now,xxx}
+P6443	(don't,you)	3.6358833e-06	1	2	87
+P6444	(PRED,COORD,SUBJ)	0	1	3	9
+P6445	(how,many)	3.0040741e-05	1	2	58
+P6446	(and,E6379)	0.00042504072	1	2	166
+P6447	(a,E6409,of)	1.1622906e-05	1	3	26
+P6448	(would,be)	0.002430439	1	2	54
+P6449	(that's,not,very,nice)	0	1	4	11
+P6450	(sort,of)	0.0029613376	1	2	118
+P6451	(P6382,P6405,xgraROOT,P6444)	5.9604645e-08	1	9	6
+P6452	(dodie,pacifier)	0.0031861663	1	2	9
+P6453	(what's,the,E6454,doing)	0.00023001432	1	4	5
+E6454	{alligator,girl}
+P6455	(Snow,White)	0.00046014786	1	2	9
+P6456	(that's,P6372)	0.0026623011	1	3	21
+P6457	(out,of)	0.00029277802	1	2	114
+P6458	(E6459,is)	0.00085377693	1	2	136
+E6459	{that,all,it}
+P6460	(the,same)	0.0099592209	1	2	76
+P6461	(that's,E6462)	0	1	2	126
+E6462	{right,aye}
+P6463	(she,is,E6464)	0.00019884109	1	3	10
+E6464	{mad,not,yeah,just,honestly,very}
+P6465	(E6384,really,E6466)	0.00063467026	0.5	3	19
+E6466	{is,was,do,does}
+P6467	(no,problem)	0	1	2	44
+P6468	(what,P6375)	0.0022525787	1	3	113
+P6469	(there,was)	0.00024199486	1	2	109
+P6470	(P6406,allowed,to)	0.0078588724	1	4	11
+P6471	(no,E6472)	0	1	2	293
+E6472	{toys,.,no}
+P6473	(for,E6391,E6474)	0.0040080547	0.75	3.5	28
+E6474	{week,while}
+P6475	(don't,be,E6476)	0	1	3	9
+E6476	{pulling,silly}
+P6477	(there,E6478,go)	0	1	3	16
+E6478	{we,you,youse}
+P6479	(I,think)	0.0068258047	1	2	201
+P6480	(E6481,you,are)	0	1	3	18
+E6481	{there,here}
+P6482	(who,E6466)	0.0039371848	1	2	36
+P6483	(P6439,P6434,Emily)	0	0.33333334	5.4000001	4
+P6484	(he,is,E6485)	0.0058915019	1	3	28
+E6485	{.,here}
+P6486	(are,we,P6402)	0.0043362379	1	4	10
+P6487	(wait,to,E6488,E6489)	6.1452389e-05	0.5	4	15
+E6488	{we,you}
+E6489	{hear,see}
+
+
+Pattern Spectra:
+histogram of pattern types, whose bins are labeled by sequences
+such as (T,P) or (E,E,T) E standing for equivalence class, T for
+tree-terminal (original unit) and P for Pattern.
+
+(T,T)	0.38613861
+(T,E)	0.059405941
+(T,P)	0.02970297
+(E,T)	0.069306931
+(E,E)	0.0099009901
+(E,P)	0
+(P,T)	0.02970297
+(P,E)	0
+(P,P)	0
+(T,T,T)	0.12871287
+(T,T,E)	0.02970297
+(T,T,P)	0.0099009901
+(T,E,T)	0.01980198
+(T,E,E)	0.01980198
+(T,E,P)	0
+(T,P,T)	0.0099009901
+(T,P,E)	0
+(T,P,P)	0
+(E,T,T)	0.02970297
+(E,T,E)	0.01980198
+(E,T,P)	0
+(E,E,T)	0.0099009901
+(E,E,E)	0
+(E,E,P)	0
+(E,P,T)	0
+(E,P,E)	0
+(E,P,P)	0
+(P,T,T)	0.0099009901
+(P,T,E)	0.0099009901
+(P,T,P)	0
+(P,E,T)	0
+(P,E,E)	0
+(P,E,P)	0
+(P,P,T)	0.0099009901
+(P,P,E)	0
+(P,P,P)	0
+(T,T,T,T)	0.01980198
+(T,T,T,E)	0
+(T,T,T,P)	0
+(T,T,E,T)	0.0099009901
+(T,T,E,E)	0.0099009901
+(T,T,E,P)	0
+(T,T,P,T)	0
+(T,T,P,E)	0
+(T,T,P,P)	0
+(T,E,T,T)	0
+(T,E,T,E)	0
+(T,E,T,P)	0
+(T,E,E,T)	0
+(T,E,E,E)	0
+(T,E,E,P)	0
+(T,E,P,T)	0
+(T,E,P,E)	0
+(T,E,P,P)	0
+(T,P,T,T)	0
+(T,P,T,E)	0
+(T,P,T,P)	0
+(T,P,E,T)	0
+(T,P,E,E)	0
+(T,P,E,P)	0
+(T,P,P,T)	0
+(T,P,P,E)	0
+(T,P,P,P)	0
+(E,T,T,T)	0.0099009901
+(E,T,T,E)	0
+(E,T,T,P)	0
+(E,T,E,T)	0
+(E,T,E,E)	0
+(E,T,E,P)	0
+(E,T,P,T)	0
+(E,T,P,E)	0
+(E,T,P,P)	0
+(E,E,T,T)	0
+(E,E,T,E)	0
+(E,E,T,P)	0
+(E,E,E,T)	0
+(E,E,E,E)	0
+(E,E,E,P)	0
+(E,E,P,T)	0
+(E,E,P,E)	0
+(E,E,P,P)	0
+(E,P,T,T)	0.0099009901
+(E,P,T,E)	0
+(E,P,T,P)	0
+(E,P,E,T)	0
+(E,P,E,E)	0
+(E,P,E,P)	0
+(E,P,P,T)	0
+(E,P,P,E)	0
+(E,P,P,P)	0
+(P,T,T,T)	0
+(P,T,T,E)	0
+(P,T,T,P)	0
+(P,T,E,T)	0.0099009901
+(P,T,E,E)	0
+(P,T,E,P)	0
+(P,T,P,T)	0
+(P,T,P,E)	0
+(P,T,P,P)	0
+(P,E,T,T)	0
+(P,E,T,E)	0
+(P,E,T,P)	0
+(P,E,E,T)	0
+(P,E,E,E)	0
+(P,E,E,P)	0
+(P,E,P,T)	0
+(P,E,P,E)	0
+(P,E,P,P)	0
+(P,P,T,T)	0
+(P,P,T,E)	0
+(P,P,T,P)	0.0099009901
+(P,P,E,T)	0
+(P,P,E,E)	0
+(P,P,E,P)	0
+(P,P,P,T)	0
+(P,P,P,E)	0
+(P,P,P,P)	0

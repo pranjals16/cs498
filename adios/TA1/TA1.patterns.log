@@ -1,0 +1,1185 @@
+Start new search-path : Thu Mar 29 11:21:34 2012
+
+174534 0
+109098284 0
+174534 0
+545680480 3
+176118 1
+109098284 0
+545680480 3
+176118 1
+109098284 0
+174534 0
+109090802 0
+-1066580152 0
+545680480 3
+176118 1
+109098284 0
+174534 0
+109090802 0
+-1066580152 0
+174534 0
+109090802 0
+-1066580152 0
+176568 1
+82291524 2
+176568 1
+82291524 2
+List of patterns: 
+1.01493	(Cindy,thinks,that,E0)
+1.01493	(that,E0)
+1.01493	(E0,thinks,that)
+1.01493	(Cindy,thinks,that,E0)
+1.01493	(that,E0)
+1.01493	(E0,thinks,that)
+1.01493	(Cindy,thinks,that,E0)
+1.01493	(that,E0)
+1.01493	(E0,thinks,that)
+1.00916	(E0,thinks,that)
+1.00578	(E0,that)
+1.00578	(E0,that,to)
+1.00578	(E0,that,to,read,is)
+1.00578	(E0,that)
+1.00578	(E0,that,to)
+1.00578	(E0,that,to,read,is)
+1.00578	(E0,that)
+1.00578	(E0,that,to)
+1.00578	(E0,that,to,read,is)
+1.00578	(to,E0)
+1.00578	(that,to,E0,is)
+1.00578	(to,E0)
+1.00578	(that,to,E0,is)
+1.00084	(E0,that)
+1.00084	(E0,that)
+1	(Cindy,thinks,that)
+1	(thinks,that)
+1	(that,to,read,is)
+1	(thinks,that)
+1	(that,to,read,is)
+1	(thinks,that)
+1	(that,to,read,is)
+1	(Cindy,thinks,that)
+1	(thinks,that)
+1	(that,to,read,is)
+1	(thinks,that)
+1	(that,to,read,is)
+1	(that,to)
+1	(that,to,read,is)
+1	(Cindy,thinks,that)
+1	(Cindy,thinks,that)
+1	(thinks,that)
+1	(that,to,read,is)
+1	(that,to)
+1	(that,to,read,is)
+1	(Cindy,thinks,that)
+1	(Cindy,thinks,that)
+1	(Cindy,thinks,that)
+1	(thinks,that)
+1	(that,to,read,is)
+1	(that,to)
+1	(that,to,read,is)
+1	(Cindy,thinks,that)
+1	(Cindy,thinks,that)
+1	(Cindy,thinks,that)
+1	(thinks,that)
+1	(that,to,read,is)
+1	(Cindy,thinks,that)
+1	(Cindy,thinks,that)
+1	(thinks,that)
+1	(that,to,read,is)
+1	(Cindy,thinks,that)
+1	(thinks,that)
+1	(Cindy,thinks,that)
+1	(thinks,that)
+1	(that,to,read,is)
+1	(Cindy,thinks,that)
+1	(thinks,that)
+0.999918	(that,to)
+0.999918	(that,to)
+0.999918	(that,to)
+0.999918	(that,to)
+0.999918	(that,to)
+0.999918	(that,to)
+0.999918	(that,to)
+0.999918	(that,to)
+0.999918	(that,to)
+0.999918	(that,to)
+NEW	P30	(Cindy,thinks,that,E0)	0	1	4	86
+E0	{Beth,Cindy,George,Jim,Joe,Pam}
+Start new search-path : Thu Mar 29 11:21:34 2012
+
+174534 0
+109090802 0
+-1066580152 0
+174534 0
+109090802 0
+-1066580152 0
+176568 1
+82291524 2
+176568 1
+82291524 2
+List of patterns: 
+1.00578	(E0,that)
+1.00578	(E0,that,to)
+1.00578	(E0,that,to,read,is)
+1.00578	(E0,that)
+1.00578	(E0,that,to)
+1.00578	(E0,that,to,read,is)
+1.00578	(to,E0)
+1.00578	(that,to,E0,is)
+1.00578	(to,E0)
+1.00578	(that,to,E0,is)
+1	(that,to)
+1	(that,to,read,is)
+1	(that,to)
+1	(that,to,read,is)
+1	(that,to)
+1	(that,to,read,is)
+1	(that,to)
+1	(that,to,read,is)
+0.999602	(thinks,that)
+0.999602	(thinks,that)
+0.999602	(thinks,that)
+0.999602	(thinks,that)
+0.999602	(thinks,that)
+0.999602	(thinks,that)
+NEW	P32	(E0,that)	0	1	2	528
+E0	{believes,thinks}
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+176268 1
+82104024 2
+176268 1
+82104024 2
+176268 1
+82104024 2
+175518 1
+2124969977 1
+-153343458 1
+109705802 1
+175518 1
+2124969977 1
+-153343458 1
+109705802 1
+175518 1
+2124969977 1
+-153343458 1
+109705802 1
+176568 1
+256772179 1
+176568 1
+256772179 1
+257697804 2
+257697804 2
+176568 1
+256772179 1
+List of patterns: 
+1.01493	(the,E0)
+1.01493	(that,the,E0,is)
+1.01493	(the,E0)
+1.01493	(that,the,E0,is)
+1.01493	(the,E0)
+1.01493	(that,the,E0,is)
+1.01155	(to,read,E0,the)
+1.01155	(to,read,E0,the)
+1.00916	(is,E0,to,read,bothers,the)
+1.00916	(is,E0,to,read,bothers,the)
+1.00916	(is,E0,to,read,bothers,the)
+1.00893	(is,E0)
+1.00893	(is,E0)
+1.00893	(is,E0)
+1.00839	(is,E0,to,read)
+1.00839	(is,E0,to)
+1.00839	(is,E0,to,read)
+1.00839	(is,E0,to)
+1.00839	(is,E0,to,read)
+1.00839	(is,E0,to)
+1.00578	(to,E0)
+1.00578	(to,E0,bothers,the)
+1.00578	(to,E0)
+1.00578	(to,E0,bothers,the)
+1.00578	(to,E0)
+1.00578	(to,E0,bothers,the)
+1	(to,read,bothers,the)
+1	(that,the)
+1	(to,read,bothers,the)
+1	(to,read,bothers,the)
+1	(that,the)
+1	(to,read,bothers,the)
+1	(to,read,bothers,the)
+1	(that,the)
+1	(to,read,bothers,the)
+1	(that,the)
+1	(to,read)
+1	(that,the)
+1	(to,read)
+1	(that,the)
+1	(to,read,bothers,the)
+1	(that,the)
+1	(to,read)
+1	(that,the)
+1	(that,the)
+1	(to,read,bothers,the)
+1	(that,the)
+1	(that,the)
+1	(that,the)
+1	(to,read,bothers,the)
+1	(that,the)
+1	(to,read,bothers,the)
+1	(that,the)
+1	(that,the)
+0.99977	(to,read)
+0.99977	(to,read)
+0.99977	(to,read)
+0.99977	(to,read)
+0.99977	(to,read)
+0.99977	(to,read)
+0.99977	(to,read)
+0.99977	(to,read)
+0.99977	(to,read)
+0.99977	(to,read)
+NEW	P34	(the,E0)	0	1	2	268
+E0	{bird,cat,cow,dog,horse,rabbit}
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+253314469 0
+174557 0
+176568 1
+1086366479 4
+306900899 2
+176568 1
+306900899 2
+List of patterns: 
+1.03564	(E0,P32,E31,P32,to)
+1.03226	(P32,E31,P32,to,E0,is)
+1.02648	(P32,E31,P32,to)
+1.02648	(P32,E31,P32,to)
+1.02648	(P32,E31,P32,to)
+1.02648	(P32,E31,P32,to)
+1.02071	(E31,P32)
+1.02071	(E31,P32)
+1.02071	(E31,P32)
+1.02071	(E31,P32)
+1.02071	(E31,P32)
+1.02071	(E31,P32)
+1.01292	(E0,P32)
+1.01155	(P32,to,E0,is)
+1.01155	(P32,to,E0,is)
+1.00578	(P32,to,read,is)
+1.00578	(P32,to,read,is)
+1.00578	(P32,to,read,is)
+1.00578	(P32,to,read,is)
+1.00578	(to,E0)
+1.00578	(P32,to,read,is)
+1.00578	(Pam,P32)
+1.00578	(P32,to,read,is)
+1.00578	(Pam,P32)
+1.00578	(to,E0)
+1.00374	(P32,to)
+1.00374	(P32,to)
+1.00374	(P32,to)
+1.00374	(P32,to)
+1.00374	(P32,to)
+1.00374	(P32,to)
+NEW	P36	(E0,P32,E31,P32,to)	0	0.6388889	7	221
+E0	{Beth,Cindy,Pam}
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+110815135 1
+List of patterns: 
+1.04142	(P36,E0,is)
+1.03564	(P36,please,is)
+NEW	P38	(P36,E0,is)	0	0.58333331	9	221
+E0	{please,read}
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+110080760 1
+-911296125 1
+175518 1
+59247625 3
+109705802 1
+110080760 1
+-911296125 1
+175518 1
+-1624932940 3
+-153343387 1
+175518 1
+-1624932940 3
+-153343387 1
+110365243 2
+-844798620 4
+List of patterns: 
+1.02986	(that,P34,is,E0,to,E39)
+1.02986	(that,P34,is,E0,to,E39)
+1.02409	(that,P34,is,E0,to)
+1.02071	(that,E0,is)
+1.02071	(that,E0,is,easy,to)
+1.02071	(that,E0,is)
+1.02071	(that,E0,is,easy,to)
+1.01733	(to,E39,E0)
+1.01601	(is,easy,to,E39,E0)
+1.01493	(that,P34,is)
+1.01493	(that,P34,is)
+1.01493	(is,E0,to,E39)
+1.01493	(that,P34,is)
+1.01493	(is,E0,to,E39)
+1.01493	(that,P34,is)
+1.01493	(that,P34,is)
+1.01493	(that,P34,is)
+1.00916	(is,E0)
+1.00916	(is,E0)
+1.00912	(is,E0)
+1.00912	(is,E0,to)
+1.00578	(to,E39)
+1.00578	(to,E39)
+1.00578	(to,E39)
+1.00578	(to,E39)
+1.00578	(to,E39)
+1.00578	(to,E39)
+1.00467	(is,easy,to,E39)
+1.00467	(is,easy,to,E39)
+1.00467	(is,easy,to,E39)
+1	(is,easy,to)
+1	(is,easy,to)
+1	(to,read)
+1	(to,read)
+1	(to,read)
+1	(to,read)
+1	(to,read)
+NEW	P40	(that,P34,is,E0,to,E39)	0	0.83333331	7	131
+E0	{eager,easy,tough}
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+List of patterns: 
+1.02648	(P30,P32,to,E39,is)
+1.02648	(P30,P32,to,E39,is)
+1.02648	(P30,P32,to,E39,is)
+1.00578	(to,E39)
+1.00578	(to,E39)
+1.00578	(to,E39)
+NEW	P42	(P30,P32,to,E39,is)	0	0.95833331	9	86
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+-417150025 6
+-229564245 4
+List of patterns: 
+1.02986	(that,E31,is,E41,to,E39)
+1.02648	(that,George,is,E41,to,E39,E0)
+1.02648	(is,E41,to,E39,E0)
+1.02409	(that,E31,is,E41,to)
+1.02409	(that,E31,is,E41,to)
+1.01492	(is,E41,to,E39)
+1.01492	(is,E41,to,E39)
+1.01487	(that,George,is,E41,to,E39)
+1.01487	(that,George,is,E41,to,E39)
+NEW	P43	(that,E31,is,E41,to,E39)	0	0.8611111	6	62
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+
+Start new search-path : Thu Mar 29 11:21:35 2012
+

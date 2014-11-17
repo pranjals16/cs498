@@ -1,0 +1,48 @@
+Twitter Data->Polls
+--------------------
+
+** we can answer some popular poll questions from the data. e.g. if many people describe something popular about Sachin, we can very easily answer that large number of people follow him.
+
+** this approach saves us precious time and money of conducting polls
+
+** a large variety of topics to consider for poll in this case
+
+** Twitter data will be used as it easily available online or can be extracted through Twitter API
+
+** Our results will also have Demographics as one of the factors
+
+** paper mainly talks about surveys on consumer confidence but we have different topics to study
+
+Approach:
+
+i) Filter messages related to topic(keyword filtering, synonym filtering or any other better approach) -> wordnet can be used for this
+	- PLSA or k-means clustering can be used to figure out hidden topics(different from the paper)
+
+ii) whether these messages are positive or negative to the topic
+	
+	- Opinion Finder categorizes words as positive and negative
+	- this is one of the important steps as quality of lexicons here will affect the result a lot	
+iii) Analyze positive sentiment on a topic for few days and give the prediction (smoothing may be required)
+
+
+Problems:
+i) very scattered data
+ii) lot of noise(e.g. emoticons)
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Document Classification
+--------------------------
+
+** k-means clustering with many similarity measures(such as Cosine, Euclidean, Pearson Coefficient,etc)
+** in this way we can compare several approaches
+** need to model the document(bags can be used, each bag is a group of similar words with certain weights, frequency in this case)
+** these bags will act as vectors in clustering
+** weka machine learning workbench removes stop words
+** porter's suffix stripping can be used (e.g. production-> produce)
+** words only above a certain threshold frequency shall be used
+** stop words and unnecessary words(such as a,of,the) needs to be filtered out. they act as noise
+
+Problems
+-----------
+
+** most frequent word may not be the appropriate measure

@@ -1,0 +1,710 @@
+ *   closed the square  # 
+ *  squares move back in  # 
+ *   turn around  # 
+ *   circle the box  # 
+ *   circled the box again  # 
+ *   going back inside  # 
+ *  door opened  # 
+ *  circle went inside  # 
+ *  circle moved to a different corner  # 
+ *  box closed  # 
+ *  circle moved to a different corner  # 
+ *  box opened  # 
+ *  everything left the box  # 
+ *  the square went back in  # 
+ *  the two shapes left the screen  # 
+ *  square closes  # 
+ *  door opens  # 
+ *  square spins around  # 
+ *  it does it again  # 
+ *  square goes inside  # 
+ *  door opens  # 
+ *  circle goes inside  # 
+ *  circle moves to corners  # 
+ *  door closes  # 
+ *  circle moves back to where it was  # 
+ *  door opens  # 
+ *  square goes out  # 
+ *  circle goes out  # 
+ *  squares spin around the circle  # 
+ *  the squares touch each other  # 
+ *  the big square goes in  # 
+ *  square stops  # 
+ *  little square and circle leave  # 
+ *  square just got kicked out of the room  # 
+ *  little door open there  # 
+ *  square's going around the room  # 
+ *  little square and a little ball showed up  # 
+ *  they're following the big  # 
+ *  big square hid itself  # 
+ *  door opens  # 
+ *  little ball goes in to the room  # 
+ *  the ball confronts the square  # 
+ *  the smaller square slowly closes the door  # 
+ *  the large square's cornering itself  # 
+ *  and  it's exiting  # 
+ *  the circle's locked inside the room  # 
+ *  but now is exiting  # 
+ *  the small and the big square's, like, pushing each  # 
+ *  the big square was moving around  # 
+ *  big square locks himself back in the room  # 
+ *  big square corners itself back in the room  # 
+ *  small square and ball exit the picture  # 
+ *  big square comes out of the place  # 
+ *  square closed  # 
+ *  circle and square enter screen  # 
+ *  square opened  # 
+ *  circle moves  # 
+ *  circle and square in square  # 
+ *  circle moves out of square  # 
+ *  square closes off other square  # 
+ *  circle and square move off screen  # 
+ *  square closes other square  # 
+ *  box close  # 
+ *  square stop  # 
+ *  circle square enter  # 
+ *  large square moves  # 
+ *  large square exit  # 
+ *  large square chases little square  # 
+ *  circle stop at closing  # 
+ *  large square enter  # 
+ *  and circle enter  # 
+ *  square opens  # 
+ *  exits  # 
+ *  circle runs away  # 
+ *  square closes exit  # 
+ *  square opens exit  # 
+ *  square chase circle  # 
+ *  circle and square exit, leave screen  # 
+ *  square closes exit  # 
+ *  the bigger box is hiding  # 
+ *  the bigger square is hiding in the big box  # 
+ *  the little circle enters the big box  # 
+ *  the big box closes the door again  # 
+ *  the big square leaves the big box  # 
+ *  the little circle leaves the big box  # 
+ *  the big square goes into the big box again  # 
+ *  the little circle and the little square move off the screen  # 
+ *  the big square exits the big box  # 
+ *  the door shuts the square out of the box  # 
+ *  the big square goes into the big box  # 
+ *  the little square and the little circle wait outside  # 
+ *  the little circle enters the box  # 
+ *  the door of the box opens  # 
+ *  the little square closes the door of the big box  # 
+ *  big square leaves the box  # 
+ *  closes the door  # 
+ *  little square comes out  # 
+ *  door opens  # 
+ *  little square is chasing the big box  # 
+ *  little box is chasing the big box  # 
+ *  door opens  # 
+ *  big box goes back into the, big square goes back into the box  # 
+ *  little circle and little square exit the screen  # 
+ *  door opens  # 
+ *  big square exits box  # 
+ *  the lid opens  # 
+ *  closes  # 
+ *  the square rotates around  # 
+ *  the lid closes  # 
+ *  the lid closes with the square and circle inside  # 
+ *  the square leaves the box  # 
+ *  as does the circle  # 
+ *  the large square enters the box  # 
+ *  the two smaller shapes leave the picture  # 
+ *  square stops rotating  # 
+ *  circle starts moving  # 
+ *  squares diverge from each other  # 
+ *  square turns  # 
+ *  the smaller square starts moving  # 
+ *  changes direction  # 
+ *  stops  # 
+ *  rotates  # 
+ *  stops  # 
+ *  circle starts moving  # 
+ *  circle stops moving  # 
+ *  circle moves  # 
+ *  circle moves really fast  # 
+ *  circle goes up  # 
+ *  circle starts zigzagging  # 
+ *  circle nearly contacts square  # 
+ *  square follows circle  # 
+ *  circle stops  # 
+ *  circle starts moving  # 
+ *  circle stops  # 
+ *  circle starts moving  # 
+ *  circle curves around  # 
+ *  goes backwards  # 
+ *  little square starts moving  # 
+ *  big square starts moving  # 
+ *  circle, square start moving again  # 
+ *  they stop  # 
+ *  the large square starts moving  # 
+ *  it stops  # 
+ *  moves down  # 
+ *  moves really fast  # 
+ *  little square starts moving  # 
+ *  the circle starts moving  # 
+ *  everything stops  # 
+ *  square's spinning  # 
+ *  square's moving really fast  # 
+ *  the two shapes join it  # 
+ *  the box closes  # 
+ *  the box opens  # 
+ *  the square rotates around  # 
+ *  the box closes  # 
+ *  the circle starts moving  # 
+ *  the square opens the box  # 
+ *  the square closes the box  # 
+ *  the box opens  # 
+ *  the lid closes  # 
+ *  the small square changes directions  # 
+ *  the circle starts following it  # 
+ *  the square starts moving  # 
+ *  the box opens  # 
+ *  the door closed  # 
+ *  the door opened  # 
+ *  the two squares stopped fighting  # 
+ *  the square and the circle go into the box  # 
+ *  and the door closes  # 
+ *  the circle leaves the box  # 
+ *  trapping the square inside  # 
+ *  big square chases the little square and circle off  # 
+ *  the big square broke the door  # 
+ *  the door closed  # 
+ *  The square and the circle move into the screen  # 
+ *  the big square moved out of the corner  # 
+ *  the big square opened the door  # 
+ *  the little square hit the big square  # 
+ *  the big square hit the little square  # 
+ *  the big square hit the little square again  # 
+ *  the little circle moves to the door  # 
+ *  the big square threatens the little circle  # 
+ *  the big square goes inside the box  # 
+ *  and the door closes  # 
+ *  the big square approaches the little circle in the  # 
+ *  the little square opens the door  # 
+ *  the square scares the little circle in the corner  # 
+ *  the little circle goes out of the room  # 
+ *  the door closes  # 
+ *  the big square hits the door down  # 
+ *  the little square and the circle go off the screen  # 
+ *  the big square circled around  # 
+ *  big square knocks the door down  # 
+ *  the square tried to get out, out of the box  # 
+ *  couldn't  # 
+ *  two more characters came, the little square and circle  # 
+ *  the big square came out of the box  # 
+ *  the big square and little square are talking  # 
+ *  are hitting each other  # 
+ *  the little circle is blocking the entrance to the  # 
+ *  the little circle went in the box  # 
+ *  the big square went in the box  # 
+ *  the litlte square's trying to open the box  # 
+ *  the little circle came out of the box  # 
+ *  and the little square's closing the box  # 
+ *  the big square came out of the box  # 
+ *  is chasing the little square and  # 
+ *  they leave the picture  # 
+ *  the big square goes in and out of the box  # 
+ *  closes the box  # 
+ *  and then he breaks the box  # 
+ *  the square closes the other, the smaller square  # 
+ *  two more objects came in, a circle and a square  # 
+ *  the square is moving around  # 
+ *  the square inside the square is starting to get active  # 
+ *  he's trying to push his way out of the square  # 
+ *  he did  # 
+ *  he joined the other square  # 
+ *  they're hitting each other  # 
+ *  and then they're spinning  # 
+ *  and they keep hitting each other  # 
+ *  now the circle is blocking the entrance for the bi  # 
+ *  now the circle is inside the square  # 
+ *  the, another square went inside the big square  # 
+ *  the little circle is moving away from the big squa  # 
+ *  the little square's trying to get inside the big s  # 
+ *  and the objects inside are moving closer together  # 
+ *  the circle just went out of the square  # 
+ *  the little circle, the little square closes box  # 
+ *  the little circle chasing little square  # 
+ *  the big square just got out of the box  # 
+ *  is chasing the other two  # 
+ *  and so he's chasing the around the box  # 
+ *  they left the picture  # 
+ *  now the big square is there with the square box  # 
+ *  he went inside the box  # 
+ *  came out  # 
+ *  tried to force his way in  # 
+ *  broke the box  # 
+ *  the big box came out  # 
+ *  and it was chased by the little boxe  # 
+ *  the little ball came into the big box with the big  # 
+ *  the big box and little box tried to get out  # 
+ *  but stopped  # 
+ *  the little box pushed the big box  # 
+ *  the little box pushed the big box into the big box  # 
+ *  the little box and the little ball left  # 
+ *  the bar let the box out  # 
+ *  the box spun around  # 
+ *  and it was chased by the little box and  # 
+ *  the ball came into the box with the big box  # 
+ *  the little ball went down  # 
+ *  and met the big box  # 
+ *  the little box closed the gate  # 
+ *  the big box went out the gate  # 
+ *  and closed the gate on the little ba  # 
+ *  the little box pushed the big box  # 
+ *  the little box pushed the big box again  # 
+ *  and it went into the big box  # 
+ *  the big box went to the corner of the box  # 
+ *  the little ball and the little box left  # 
+ *  the big box tried to exit the big box  # 
+ *  square is stuck in a square  # 
+ *  door closes  # 
+ *  small circle, small square come in  # 
+ *  big square opens the door to the bigger square  # 
+ *  circle is stuck in between the door in the big box  # 
+ *  square, big square and little circle are now in the box together  # 
+ *  circle goes up to the corner of the box  # 
+ *  small square closes the door  # 
+ *  traps big box in  # 
+ *  square is following around circle and small square  # 
+ *  big square closes the box door  # 
+ *  and actually breaks it   # 
+ *  big square is stuck in a box  # 
+ *    stops, bottom of box  # 
+ *  small square and circle come in  # 
+ *  square is moving around the box trying to get out  # 
+ *  leaves the box  # 
+ *  big square kind of pushes small square  # 
+ *  follows small square around  # 
+ *  small square enters the box  # 
+ *  big square enters the box  # 
+ *  door's closed  # 
+ *  small square moves up toward box, outside of it  # 
+ *  door starts to open  # 
+ *  door is opened very slowly  # 
+ *  small circle moves to the upper right-hand corner box  # 
+ *  small circle leaves the box  # 
+ *  small square closes the door to the box  # 
+ *  small square and small circle leave  # 
+ *  they are now moving around the box, as if t  # 
+ *  small circle and small square leave the picture  # 
+ *  big square closes the box door  # 
+ *  and breaks it   # 
+ *  square moved around the box  # 
+ *  square went into the box  # 
+ *  circle went into the box  # 
+ *  the square left the box  # 
+ *  circle left the box  # 
+ *  square entered the box  # 
+ *  the circle and small square left the screen  # 
+ *  square is pushed out of box  # 
+ *  moves towards box  # 
+ *  square spins the circle  # 
+ *  square moves around the box  # 
+ *  square continues moving around the box  # 
+ *  large square moves into the box  # 
+ *  large square moves back and forth  # 
+ *  small square, small circle enters the box  # 
+ *  small circle moves to bottom of box  # 
+ *  small square closes box  # 
+ *  small circle move across bottom of box  # 
+ *  large square moves to top of box  # 
+ *  exits the box  # 
+ *  large square closes box  # 
+ *  small circle exits box  # 
+ *  squares move closer together  # 
+ *  large square spins  # 
+ *  large enters box  # 
+ *  closes box  # 
+ *  large square moves to bottom corner of box  # 
+ *  small square and circle leave screen  # 
+ *  large box, large square opens box  # 
+ *  the big square was being chased by the little square  # 
+ *  entered the box  # 
+ *  the little square shut the big square and circle in the box  # 
+ *  the little square pushed to big square back into the box  # 
+ *  the little square and circle left  # 
+ *  the square enters the box  # 
+ *  the little square enters the box  # 
+ *  the door is shut  # 
+ *  the big square leaves the box  # 
+ *  the circle comes out of the box  # 
+ *  the big square goes back in the box  # 
+ *  the square and the circle left  # 
+ *  the empty square opens  # 
+ *  closes  # 
+ *  two new things introduced  # 
+ *  the square goes inside the empty square  # 
+ *  the empty square opens up  # 
+ *  the ball moves through  # 
+ *  the smaller square closes the empty square  # 
+ *  the large square opens up the empty square  # 
+ *  comes out  # 
+ *  and shuts in the other ball  # 
+ *  other ball that gets trapped  # 
+ *  the squares hit into each other  # 
+ *  the large square goes back inside the empty square  # 
+ *  the other two go out of sight  # 
+ *  the large square opens up the empty square  # 
+ *  the line just hit the square  # 
+ *  and now it opened up  # 
+ *  the square almost went inside  # 
+ *  and now it's spinning  # 
+ *  now it moves to the right  # 
+ *  moves down  # 
+ *  moves left  # 
+ *  and there's two new things introduced  # 
+ *  and they're following the square  # 
+ *  one goes inside the box  # 
+ *  and it hits it to the side  # 
+ *  the square rotates  # 
+ *  the ball goes inside  # 
+ *  the ball shoots down  # 
+ *  and the square starts to close slowly  # 
+ *  the small square moves down  # 
+ *  the large square rotates  # 
+ *  the ball moves to the bottom right hand corner of the square it's in  # 
+ *  the square opens up  # 
+ *  the larger square gets let out  # 
+ *  and closes the square behind it  # 
+ *  the ball gets out  # 
+ *  the small square hits the bigger square  # 
+ *  hits it again  # 
+ *  the large square moves  # 
+ *  the small square hits the large square again  # 
+ *  the large square goes back inside the big square  # 
+ *  the large square moves down to the bottom left hand corner  # 
+ *  the small square moves with the ball up out of sight  # 
+ *  the large square opens up the  # 
+ *  square got trapped in the box  # 
+ *  square opened the box  # 
+ *  interation between the two squares  # 
+ *  the larger square closed the box with the ball in  # 
+ *  the little square either opened the box or is tryi  # 
+ *  the smaller square enclosed the larger square in t  # 
+ *  the larger square is chasing the two smaller objec  # 
+ *  the two smaller objects left the screen  # 
+ *  the larger square closed the box  # 
+ *  and hit the door  # 
+ *  the square moved  # 
+ *  the square got put in the box  # 
+ *  the square went to the corner  # 
+ *  two small objects entered the screen  # 
+ *  the smaller square is going around the box  # 
+ *  the bigger square moved inside the box  # 
+ *  and pushed the door  # 
+ *  the small square hit the big square  # 
+ *  the big square did a shaking of the head kind of m  # 
+ *  the big square hit hte small square  # 
+ *  big square is chasing the small square  # 
+ *  and the small circle goes in the doorway of the bo  # 
+ *  big square follows the small circle  # 
+ *  door closes  # 
+ *  the big square corners the cirle  # 
+ *  the door opens a little bit  # 
+ *  the smalls quare tries to keep the door shut, or h  # 
+ *  small cirle goes to the corner  # 
+ *  the big square chases the circle  # 
+ *  the small square closes the door  # 
+ *  the big square gets out  # 
+ *  and chases the two  # 
+ *  the two smaller objects exit the scene  # 
+ *  the big square goes in the door of the box  # 
+ *  closes the door  # 
+ *  and then pushes it off  # 
+ *  the large square just entered the box  # 
+ *  the large square exited the box  # 
+ *  and came to hit the small squar  # 
+ *  and they went bak and forth  # 
+ *  looks like the large square was chasing the other  # 
+ *  and it got away  # 
+ *  after the other object helped it  # 
+ *  it got mad  # 
+ *  and it broke down the door  # 
+ *  so the bar closed  # 
+ *  and the square went down  # 
+ *  the bigger square inside the box left  # 
+ *  the squares kind of bounced off each other  # 
+ *  and then started chasing  # 
+ *  the bigger square just went inside the box  # 
+ *  looks like it's chasing the sm  # 
+ *  the bigger square looks like it hit the circle out  # 
+ *  the square and circle chase each other off the scr  # 
+ *  door closed  # 
+ *  big block's hiding  # 
+ *  big block comes outside to meet little block and little circle  # 
+ *  little circle takes over big block's space inside the room  # 
+ *  big block terrorizes little circle  # 
+ *  litlte block comes to the aid of little circle  # 
+ *  they flee  # 
+ *  big block chases them  # 
+ *  they seem to work well in a pair  # 
+ *  big block gets mad  # 
+ *  breaks down door  # 
+ *  big block closes the door  # 
+ *  runs to the corner  # 
+ *  oh, couple of little guys come in  # 
+ *  little block seems to be sneakin' around  # 
+ *  big block reacts  # 
+ *  hears a sound outside  # 
+ *  goes to the door  # 
+ *  opens the door  # 
+ *  comes outside  # 
+ *  talks to little block  # 
+ *  little block seems to be bashing big block  # 
+ *  big block says "uh uh, don't do that"  # 
+ *  pushes little block around  # 
+ *    pushes little block around again  # 
+ *    chases little block  # 
+ *  little circle runs to door  # 
+ *  big block runs over  # 
+ *    opens door  # 
+ *    tries to go after little circle  # 
+ *    closes the door  # 
+ *    corners little circle  # 
+ *  little block is outside  # 
+ *  kinda wondering what's going on  # 
+ *  goes to the door  # 
+ *  big block's still cornering little circle  # 
+ *  little block is slowly opening the door  # 
+ *  little circle makes a run for it  # 
+ *  makes it out the door  # 
+ *  little block and little circle are together  # 
+ *  big block is in the room  # 
+ *  the little guys run around the room  # 
+ *  looks like they're making a break for it  # 
+ *  they seem to be doin' pretty good  # 
+ *  big block's chasing them around  # 
+ *  they outrun him  # 
+ *  they go off the screen  # 
+ *  big block gets a little confused  # 
+ *    spins around in circles  # 
+ *    goes back in the door  # 
+ *    closes the door  # 
+ *  he's pissed  # 
+ *  big square got chased  # 
+ *  went into the box  # 
+ *  the little square opens the box  # 
+ *  the little square closes the box forcircle  # 
+ *  big square tries to escape the box  # 
+ *  but it's pushed back in  # 
+ *  after they leave  # 
+ *  big square gets out  # 
+ *  square's trying to get into a box  # 
+ *  the square got into the box  # 
+ *  small circle just got in  # 
+ *  there's a small square closing up the box  # 
+ *  big square just tried to trap the circle into the  # 
+ *  circle got out  # 
+ *  small square just pushed the big square into the b  # 
+ *  both small shapes just left  # 
+ *  and the big square opened up the box  # 
+ *  the little square and the big square gather in the middle  # 
+ *  the circle joins them  # 
+ *  big square closes the door  # 
+ *  the little circle is going inside the door  # 
+ *  the big circthe big square and the little square were interacting  # 
+ *  the big square chases the little circle out of the box  # 
+ *  the big square chases both litle shapes off the screen  # 
+ *  big square kicks the door in  # 
+ *  the big square moved down towards the middle  # 
+ *  all three shapes gather  # 
+ *  the big square just closed the door  # 
+ *  went to the bottom left of the box  # 
+ *  the little square is revolving  # 
+ *  it's going in circles around the little circle  # 
+ *  the little square attached to the big square  # 
+ *  the little circle is inside the box  # 
+ *  the big square and the little square are chasing each other  # 
+ *  the little square is opening the door  # 
+ *  the big square just chased the little circle out of the box  # 
+ *  the little squareall three shapes are going in circles around the box  # 
+ *  the two little shapes went off the screen  # 
+ *  the big square closed the door  # 
+ *  knocked it out  # 
+ *  the door is closed  # 
+ *  the other two enter the scene  # 
+ *  the door opens again  # 
+ *  the two boxes are next to each other  # 
+ *  it's almost like they are talking  # 
+ *  they hit each other a few times  # 
+ *  circle goes by the door  # 
+ *  the door opens again  # 
+ *   lets the box in  # 
+ *  little square goes up by the door  # 
+ *  opens it  # 
+ *  the circle leaves  # 
+ *  closes the door  # 
+ *  the little circle and square go around the box  # 
+ *  the door opens  # 
+ *  the big box goes around with them  # 
+ *  the little square and the little circle leave  # 
+ *  the box goes inside the thing  # 
+ *  briefly comes out  # 
+ *  hits the door  # 
+ *  door is shut  # 
+ *   went into the corner  # 
+ *  the other one is coming  # 
+ *  one stopped  # 
+ *  it's wandering around  # 
+ *  the square started moving again  # 
+ *  opened the door  # 
+ *  the squares are right next to each other  # 
+ *  are hitting each other  # 
+ *  again  # 
+ *  and the circle started moving  # 
+ *  closes the door  # 
+ *  square closed the door  # 
+ *  circle's moving  # 
+ *  square turned around  # 
+ *  other square stopped  # 
+ *  circle stopped  # 
+ *  now the square is opening the door  # 
+ *  circle stopped again  # 
+ *  the square -- the circle left the enclosed area  # 
+ *  and the square is going back and forth to open the door  # 
+ *  playing around  # 
+ *  they are chasing each other  # 
+ *  turned  # 
+ *  turned  # 
+ *  spinning  # 
+ *  big square went inside  # 
+ *  closed the door  # 
+ *  broke the door  # 
+ *  There is a big square resting in its house,leftmost bottom corner  # 
+ *  Now there are two shapes one small square and one dot on the frame  # 
+ *  Small square is moving, dot is stationary  # 
+ *  The big square has opened the door, coming out of its house  # 
+ *  And then it is talking to the small square  # 
+ *  It looks like they are talking and they are having some discussion  # 
+ *  Big square punched the small square  # 
+ *  Then again  # 
+ *  Then again  # 
+ *  Now the small square is running other way and the big square is following it  # 
+ *  Small circle entered the house  # 
+ *  The big square followed the small circle  # 
+ *  They are inside the house, while the small square tries to enter the house  # 
+ *  The door is closed  # 
+ *  It is opening the door slowly  # 
+ *  And big square is fighting with small circle  # 
+ *  Small circle is on the top-right corner  # 
+ *  Small circle has gone outside the door and door is closed  # 
+ *  Big square is hitting the door  # 
+ *  It came out of the house  # 
+ *  It is following them  # 
+ *  They are circling around the house  # 
+ *  Door is still open  # 
+ *  And then, the small circle and small square have gone out of the frame  # 
+ *  Big square closes the door and then  breaks the door  # 
+ *  shapes spin around  # 
+ *  circle moves  # 
+ *  squares move away  # 
+ *  little square circles the lines  # 
+ *  and  stops  # 
+ *  circle moves  # 
+ *  it moves some more  # 
+ *  and  more  # 
+ *   keeps on moving  # 
+ *  big square and circle move  # 
+ *  circle turns around  # 
+ *  little square follows circle  # 
+ *  shapes move apart  # 
+ *  they stop  # 
+ *  big square moves  # 
+ *  shapes come together  # 
+ *  So it seems there is one big box, containing a square  # 
+ *  Here come two objects, one is a square, one is a circle  # 
+ *  Square is moving around  # 
+ *  The big square inside the box is trying to come out of the gate  # 
+ *  And it has successfully come out of the gate  # 
+ *  The two squares are fighting with each other  # 
+ *  The big square is  # 
+ *  There is a race between them  # 
+ *  Now the circle goes inside the box and the big square is going after it  # 
+ *  It is also behind  # 
+ *  Now the small square is also trying to move inside but  cannot  # 
+ *  The door is slightly opening  # 
+ *  The big square is continuously following the circle  # 
+ *  And now the circle moves out of the box  # 
+ *  But still the big square is inside the box  # 
+ *  It is running after both the shapes  # 
+ *  It is still running  # 
+ *  Now they escape from the picture  # 
+ *  Now it is spinning  # 
+ *  It breaks the door  # 
+ *  The box is trying to get out of the room  # 
+ *  And a small box and a circle have entered the scene  # 
+ *  The small box is spinning outside and the big box is trying to get out  # 
+ *  Now the big box is outside the room and the small box has hit it  # 
+ *  Now the big box is hitting the small box  # 
+ *  It has hit it again  # 
+ *  Now it is chasing the small box  # 
+ *  The circle is at the door  # 
+ *  Now the big box is chasing the circle  # 
+ *  It has entered the room  # 
+ *  The circle is in the corner  # 
+ *  Big box is chasing the circle and the small box is trying to enter the room  # 
+ *  The door is opening slowly  # 
+ *  The circle is running and the big box is trying to chase the circle  # 
+ *  The room is shut  # 
+ *  The big box is inside  # 
+ *  The circle and the small box are outside now  # 
+ *  The small box and the circle are moving fast and the big box is chasing them  # 
+ *  They are taking rounds of the room and the small box and the circle are outside the radii  # 
+ *  And this big box is left alone and  is spinning  # 
+ *  And it is outside the room and  has broken the door  # 
+ *  The box door closes and pushes the square inside  # 
+ *  It moves towards bottom  # 
+ *  It rests there  # 
+ *  Small square and circle enter  # 
+ *  Square still lies at its place  # 
+ *  They move towards the box  # 
+ *  The small square leaves its partner and  starts moving around randomly  # 
+ *  It keeps moving randomly  # 
+ *  The square moves inside the box  # 
+ *  It reaches the door  # 
+ *  The door opens and it moves outside  # 
+ *  It starts moving away from the square  # 
+ *  The square spins at its place  # 
+ *  It moves forward and  pushes the small square  # 
+ *  It pushes further again  # 
+ *  The small square changes direction and  runs towards the lower part of the box  # 
+ *  The square follows it  # 
+ *  The circle, stable all the while now, runs towards the entrance of the box  # 
+ *  The big square pushes the small one again, and  starts moving in other direction  # 
+ *  The circle stays at the same position  # 
+ *  The square moves towards the circle in the box  # 
+ *  The circle moves inwards while the door opens  # 
+ *  The square enters the box and the door closes  # 
+ *  It moves in the direction of the circle, which goes to the bottom of the box  # 
+ *  All three move at this time  # 
+ *  The circle away from the square, the latter following it  # 
+ *  The small square also moves towards the entrance of the box  # 
+ *  The circle moves and  settles to the right bottom of the box  # 
+ *  The square follows it  # 
+ *  The door also opens slowly  # 
+ *  The circle runs to the top left corner  # 
+ *  The square again follows  # 
+ *  The circle runs towards entrance the square following  # 
+ *  The circle moves out of the box and door closes  # 
+ *  Square is left inside  # 
+ *  circle joins the small square and both run down  # 
+ *  Inside the box, square moves forward and backward to push the door open  # 
+ *  The square opens the door and  moves out  # 
+ *  The others keep moving away from it  # 
+ *  As it comes out,the sqaure gains pace and  starts chasing the other two, running together  # 
+ *  they also run faster  # 
+ *  The chase continues for two rounds around the box  # 
+ *  the smaller shapes move out of the frame  # 
+ *  The square keeps running and  reaches near of the door  # 
+ *  Not seeing the others, it stops  # 
+ *  It spins and  moves upwards towards the entrance  # 
+ *  it goes inside the box and  comes out again  # 
+ *  The door closes and the square moves backwards  # 
+ *  The square hits the door and  breaks it  # 
+ *    # 
+ *    # 
+ *    # 

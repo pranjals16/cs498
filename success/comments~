@@ -1,0 +1,5 @@
+keman2.py:
+	run successfully...creates less number of clusters for commentary than random text
+
+plsa:
+	runs successfully...creates less cluster for commentary

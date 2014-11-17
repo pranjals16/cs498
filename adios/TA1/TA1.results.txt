@@ -1,0 +1,161 @@
+
+
+ADIOS V1.00 (Automatic DistIlation Of Strctures)
+Mon Apr  2 14:58:56 2012
+
+Verbosity level: 0
+Context window-length: 5
+Coverage: 0.65
+Eta: 0.9
+P-value: 0.01
+Rewiring mode: none
+Number of patterns: 8
+Number of equivalence classes: 8
+Total size after learning: 25552 (bits)
+
+Table of extracted patterns:
+ID: unique id 
+seq: sequence 
+p-value: significance 
+gen: generalization factor [1..0] 
+len: length
+occ: occurrences in corpus
+ID	seq	p-value	gen	len	occ
+P30	(Cindy,thinks,that,E31)	0	1	4	86
+E31	{Beth,Cindy,George,Jim,Joe,Pam}
+P32	(E33,that)	0	1	2	528
+E33	{believes,thinks}
+P34	(the,E35)	0	1	2	268
+E35	{bird,cat,cow,dog,horse,rabbit}
+P36	(E37,P32,E31,P32,to)	0	0.6388889	7	221
+E37	{Beth,Cindy,Pam}
+P38	(P36,E39,is)	0	0.58333331	9	221
+E39	{please,read}
+P40	(that,P34,is,E41,to,E39)	0	0.83333331	7	131
+E41	{eager,easy,tough}
+P42	(P30,P32,to,E39,is)	0	0.95833331	9	86
+P43	(that,E31,is,E41,to,E39)	0	0.8611111	6	62
+
+
+Pattern Spectra:
+histogram of pattern types, whose bins are labeled by sequences
+such as (T,P) or (E,E,T) E standing for equivalence class, T for
+tree-terminal (original unit) and P for Pattern.
+
+(T,T)	0
+(T,E)	0.125
+(T,P)	0
+(E,T)	0.125
+(E,E)	0
+(E,P)	0
+(P,T)	0
+(P,E)	0
+(P,P)	0
+(T,T,T)	0
+(T,T,E)	0
+(T,T,P)	0
+(T,E,T)	0
+(T,E,E)	0
+(T,E,P)	0
+(T,P,T)	0
+(T,P,E)	0
+(T,P,P)	0
+(E,T,T)	0
+(E,T,E)	0
+(E,T,P)	0
+(E,E,T)	0
+(E,E,E)	0
+(E,E,P)	0
+(E,P,T)	0
+(E,P,E)	0
+(E,P,P)	0
+(P,T,T)	0
+(P,T,E)	0
+(P,T,P)	0
+(P,E,T)	0.125
+(P,E,E)	0
+(P,E,P)	0
+(P,P,T)	0
+(P,P,E)	0
+(P,P,P)	0
+(T,T,T,T)	0
+(T,T,T,E)	0.125
+(T,T,T,P)	0
+(T,T,E,T)	0
+(T,T,E,E)	0
+(T,T,E,P)	0
+(T,T,P,T)	0
+(T,T,P,E)	0
+(T,T,P,P)	0
+(T,E,T,T)	0
+(T,E,T,E)	0
+(T,E,T,P)	0
+(T,E,E,T)	0
+(T,E,E,E)	0
+(T,E,E,P)	0
+(T,E,P,T)	0
+(T,E,P,E)	0
+(T,E,P,P)	0
+(T,P,T,T)	0
+(T,P,T,E)	0
+(T,P,T,P)	0
+(T,P,E,T)	0
+(T,P,E,E)	0
+(T,P,E,P)	0
+(T,P,P,T)	0
+(T,P,P,E)	0
+(T,P,P,P)	0
+(E,T,T,T)	0
+(E,T,T,E)	0
+(E,T,T,P)	0
+(E,T,E,T)	0
+(E,T,E,E)	0
+(E,T,E,P)	0
+(E,T,P,T)	0
+(E,T,P,E)	0
+(E,T,P,P)	0
+(E,E,T,T)	0
+(E,E,T,E)	0
+(E,E,T,P)	0
+(E,E,E,T)	0
+(E,E,E,E)	0
+(E,E,E,P)	0
+(E,E,P,T)	0
+(E,E,P,E)	0
+(E,E,P,P)	0
+(E,P,T,T)	0
+(E,P,T,E)	0
+(E,P,T,P)	0
+(E,P,E,T)	0
+(E,P,E,E)	0
+(E,P,E,P)	0
+(E,P,P,T)	0
+(E,P,P,E)	0
+(E,P,P,P)	0
+(P,T,T,T)	0
+(P,T,T,E)	0
+(P,T,T,P)	0
+(P,T,E,T)	0
+(P,T,E,E)	0
+(P,T,E,P)	0
+(P,T,P,T)	0
+(P,T,P,E)	0
+(P,T,P,P)	0
+(P,E,T,T)	0
+(P,E,T,E)	0
+(P,E,T,P)	0
+(P,E,E,T)	0
+(P,E,E,E)	0
+(P,E,E,P)	0
+(P,E,P,T)	0
+(P,E,P,E)	0
+(P,E,P,P)	0
+(P,P,T,T)	0
+(P,P,T,E)	0
+(P,P,T,P)	0
+(P,P,E,T)	0
+(P,P,E,E)	0
+(P,P,E,P)	0
+(P,P,P,T)	0
+(P,P,P,E)	0
+(P,P,P,P)	0

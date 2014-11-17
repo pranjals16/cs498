@@ -1,0 +1,4 @@
+for line in open('4_filtered1.txt','r'):
+  line = line.rstrip()
+  if line != '':
+    print line

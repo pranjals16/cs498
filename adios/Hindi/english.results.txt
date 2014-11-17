@@ -1,0 +1,280 @@
+
+
+ADIOS V1.00 (Automatic DistIlation Of Strctures)
+Wed Nov 13 23:33:11 2013
+
+Verbosity level: 0
+Context window-length: 5
+Coverage: 0.65
+Eta: 0.8
+P-value: 0.01
+Rewiring mode: Single
+Number of patterns: 101
+Number of equivalence classes: 101
+Initial Size: 1395144 (bits)
+Total size after learning: 1313896 (bits)
+Compression: 94.1764%
+
+Table of extracted patterns:
+ID: unique id 
+seq: sequence 
+p-value: significance 
+gen: generalization factor [1..0] 
+len: length
+occ: occurrences in corpus
+ID	seq	p-value	gen	len	occ
+P6828	(E6829,of,coal)	0	1	3	66
+E6829	{utilisation,allocation}
+P6830	(CBI,sources,said)	6.3180923e-06	1	3	24
+P6831	(has,been)	2.2828579e-05	1	2	92
+P6832	(coal,block)	1.6093254e-06	1	2	162
+P6833	(have,been)	1.7344952e-05	1	2	65
+P6834	(Prime,Minister)	0	1	2	97
+P6835	(in,the)	0	1	2	439
+P6836	(in,connection,with)	0	1	3	58
+P6837	(prima,facie)	0.0037907958	1	2	7
+P6838	(of,the)	0.0032162666	1	2	437
+P6839	(Aditya,Birla)	0.00075334311	1	2	39
+P6840	(former,coal,secretary)	5.9604645e-08	1	3	24
+P6841	(to,the)	0.00090324879	1	2	200
+P6842	(criminal,conspiracy)	4.8756599e-05	1	2	25
+P6843	(followed,every,process,required,for)	7.390976e-06	1	5	8
+P6844	(by,the)	0.0020507574	1	2	180
+P6845	(probe,into,the)	0.0053551197	1	3	20
+P6846	(Talabira,II)	2.9206276e-06	1	2	28
+P6847	(coal,blocks)	0	1	2	143
+P6848	(quid,pro)	0.00057554245	1	2	9
+P6849	(Kumar,Mangalam,E6850)	1.4841557e-05	1	3	36
+E6850	{Birla,Birla,}
+P6851	(an,FIR,E6852,Hindalco,and)	0.0067200065	1	5	5
+E6852	{naming,against}
+P6853	(Supreme,Court)	0	1	2	78
+P6854	(screening,committee)	9.4175339e-06	1	2	25
+P6855	(a,meeting,with)	0.0043150187	1	3	11
+P6856	(alleged,irregularities,E6857)	8.559227e-05	1	3.5	33
+E6857	{P6835,in}
+P6858	(six,locations,in,Mumbai,)	0.00087624788	1	4	7
+P6859	(P6828,blocks)	6.8604946e-05	1	4	34
+P6860	(This,is)	0.009739697	1	2	34
+P6861	(the,CBI)	0.0069152117	1	2	153
+P6862	(E6863,of)	0.0014259219	1	2	41
+E6863	{Minister,minister}
+P6864	(P6862,E6865)	0.00073695183	0.5	3	40
+E6865	{state,State}
+P6866	(At,this,stage,of,investigation,,JSPL,is,committed,to,fully,E6867,with)	0	1	12	6
+E6867	{cooperate,cooperating}
+P6868	(the,E6869,P6838,coal,scam)	0.0016000271	1	6	6
+E6869	{'heart',trail,scope,"heart",period}
+P6870	(E6871,E6863,Sriprakash,Jaiswal)	1.424551e-05	0.5	4	15
+E6871	{Coal,coal}
+P6872	(Central,Bureau,of)	0	1	3	33
+P6873	(Law,Minister)	1.9669533e-06	1	2	45
+P6874	(P6834,Manmohan,Singh)	2.1100044e-05	1	4	26
+P6875	(the,custodian,of,files)	0.0010234714	1	4	9
+P6876	(E6877,is)	0.0043894053	1	2	38
+E6877	{"It,It}
+P6878	(is,E6879,to)	0.0010178089	1	3	14
+E6879	{free,believed,likely}
+P6880	(The,CBI)	0.0040140748	1	2	74
+P6881	(status,report)	7.8856945e-05	1	2	44
+P6882	(Screening,Committee)	0.0034085512	1	2	16
+P6883	(E6884,desired,by)	0.009280026	1	3	6
+E6884	{"as,as}
+P6885	(E6886,court)	0.00045222044	1	2	49
+E6886	{this,apex}
+P6887	(Coal,Ministry)	1.7881393e-06	1	2	68
+P6888	(The,P6885,had,directed,the,P6887,that,if,any,document,remains,untraceable,,then,FIRs,have,to,be,lodged,P6844,P6887,with,E6889,within,a,week)	0	0.5	29.5	4
+E6889	{CBI,P6861}
+P6890	(E6891,Sabha)	5.9604645e-08	1	2	26
+E6891	{Rajya,Lok}
+P6892	(P6873,Ashwani,Kumar)	6.9141388e-06	1	4	17
+P6893	(Prevention,of,Corruption)	2.0623207e-05	1	3	16
+P6894	(The,E6895,said)	0.0024552941	1	3	14
+E6895	{prosecutor,ED,sources}
+P6896	(E6897,the)	0.0018956065	1	2	138
+E6897	{affecting,on}
+P6898	(between,2006,and)	0.0033599734	1	3	6
+P6899	(P6872,Investigation)	5.3048134e-06	1	4	28
+P6900	(Coal,Secretary)	0.0044595003	1	2	24
+P6901	(in,favour,of)	5.5015087e-05	1	3	9
+P6902	(CBI,Director,Ranjit,Sinha)	0.007589817	1	4	6
+P6903	(Prime,Minister's)	0.0094795823	1	2	17
+P6904	(P6896,basis,of)	0.007589817	0.5	4	6
+P6905	(Rs,25,crore)	5.3524971e-05	1	3	7
+P6906	(to,be)	0.00053280592	1	2	88
+P6907	(an,E6908,E6857)	0.007316947	0.75	3.5	12
+E6908	{accused,investor}
+P6909	(as,E6910)	0.0081439018	1	2	75
+E6910	{the,a}
+P6911	(E6912,this,seems,P6906,part,of,a,larger,case,entailing,coal,allocation,to,companies,,and,being,one,P6838,companies,,we,are,being,investigated)	0	1	25	6
+E6912	{"Apparently,Apparently,}
+P6913	(is,expected,to)	0.007589817	1	3	6
+P6914	(missing,files)	0.0040208101	1	2	34
+P6915	(The,E6916,in,its)	2.6762486e-05	1	4	7
+E6916	{CBI,,company,,agency}
+P6917	(carried,out)	0.00087881088	1	2	20
+P6918	(Gagan,Sponge,Iron)	0.0012235641	1	3	13
+P6919	(company,,is,governed,by,a,strong,ethical,code,of)	0.0033599734	1	9	5
+P6920	(allocation,of,a,P6832,to)	0.0067200065	1	6	5
+P6921	(cupboards,and,almirahs)	0.007589817	1	3	6
+P6922	(Amarkonda,Murgadangal,P6832)	2.7239323e-05	1	4	20
+P6923	(They,said)	0.004897356	1	2	16
+P6924	(P6832,allocation)	0.0051395297	1	3	39
+P6925	(P6834,Manmohan)	0.00080001354	1	3	14
+P6926	(Comptroller,and,Auditor,General)	0.0016000271	1	4	6
+P6927	(per,cent)	0.0039973855	1	2	21
+P6928	(P6847,allocation,scam,E6929,in)	0.0067200065	1	6	5
+E6929	{registered,case,probe}
+P6930	(the,Prime,Minister,,who)	0.00053417683	1	4	9
+P6931	(allocation,of)	0.0099493861	1	2	41
+P6932	(Delhi,,Hyderabad,and)	0.0019205213	1	3	8
+P6933	(G,E)	0.0051050782	1	2	12
+P6934	(E6935,E6910)	0.003679812	1	2	192
+E6935	{and,for}
+P6936	(P6860,an,ongoing,CBI,investigation,into)	2.6762486e-05	1	7	7
+P6937	(cheating,and)	0.0090004802	1	2	18
+P6938	(Congress,MP)	0.0004748106	1	2	28
+P6939	(is,being,monitored,P6844)	0.007589817	1	5	6
+P6940	(that,E6941)	0.0033647418	1	2	135
+E6941	{certain,some,the}
+P6942	(E6943,headed,by)	0.006736517	1	3	9
+E6943	{committee,bench}
+P6944	(Dasari,E6945)	0.0067369342	1	2	25
+E6945	{Narayan,Narayana}
+P6946	(P6864,for)	0.0012717843	0.5	4	34
+P6947	(E6948,allocation)	0.0067359805	1	2.5	48
+E6948	{P6847,coal}
+P6949	(told,reporters)	0.0017704964	1	2	10
+P6950	(E6889,to,give,a,list,of,documents,)	0.0067200065	1	7.5	5
+P6951	(E6952,wish,to,state,unambiguously,that,we,have,P6843,P6828,completely,,as,stipulated,P6844)	0.0016990304	0.5	21	7
+E6952	{"We,We}
+P6953	(There,E6954)	0.0054064989	1	2	16
+E6954	{was,is}
+P6955	(there,is,a,conspiracy,)	0.003184855	1	4	10
+P6956	(P6838,P6893)	0.0053710938	1	5	10
+P6957	(preliminary,E6958)	0.0010316968	1	2	18
+E6958	{enquiries,enquiry}
+
+
+Pattern Spectra:
+histogram of pattern types, whose bins are labeled by sequences
+such as (T,P) or (E,E,T) E standing for equivalence class, T for
+tree-terminal (original unit) and P for Pattern.
+
+(T,T)	0.34653465
+(T,E)	0.04950495
+(T,P)	0
+(E,T)	0.059405941
+(E,E)	0.0099009901
+(E,P)	0
+(P,T)	0.04950495
+(P,E)	0.0099009901
+(P,P)	0.0099009901
+(T,T,T)	0.13861386
+(T,T,E)	0.01980198
+(T,T,P)	0.0099009901
+(T,E,T)	0.01980198
+(T,E,E)	0.0099009901
+(T,E,P)	0
+(T,P,T)	0
+(T,P,E)	0
+(T,P,P)	0
+(E,T,T)	0.02970297
+(E,T,E)	0
+(E,T,P)	0
+(E,E,T)	0
+(E,E,E)	0
+(E,E,P)	0
+(E,P,T)	0
+(E,P,E)	0
+(E,P,P)	0
+(P,T,T)	0.02970297
+(P,T,E)	0
+(P,T,P)	0
+(P,E,T)	0
+(P,E,E)	0
+(P,E,P)	0
+(P,P,T)	0
+(P,P,E)	0
+(P,P,P)	0
+(T,T,T,T)	0.059405941
+(T,T,T,E)	0
+(T,T,T,P)	0.0099009901
+(T,T,E,T)	0
+(T,T,E,E)	0
+(T,T,E,P)	0
+(T,T,P,T)	0
+(T,T,P,E)	0
+(T,T,P,P)	0
+(T,E,T,T)	0.0099009901
+(T,E,T,E)	0
+(T,E,T,P)	0
+(T,E,E,T)	0
+(T,E,E,E)	0
+(T,E,E,P)	0
+(T,E,P,T)	0
+(T,E,P,E)	0
+(T,E,P,P)	0
+(T,P,T,T)	0
+(T,P,T,E)	0
+(T,P,T,P)	0
+(T,P,E,T)	0
+(T,P,E,E)	0
+(T,P,E,P)	0
+(T,P,P,T)	0
+(T,P,P,E)	0
+(T,P,P,P)	0
+(E,T,T,T)	0
+(E,T,T,E)	0
+(E,T,T,P)	0
+(E,T,E,T)	0
+(E,T,E,E)	0
+(E,T,E,P)	0
+(E,T,P,T)	0
+(E,T,P,E)	0
+(E,T,P,P)	0
+(E,E,T,T)	0.0099009901
+(E,E,T,E)	0
+(E,E,T,P)	0
+(E,E,E,T)	0
+(E,E,E,E)	0
+(E,E,E,P)	0
+(E,E,P,T)	0
+(E,E,P,E)	0
+(E,E,P,P)	0
+(E,P,T,T)	0
+(E,P,T,E)	0
+(E,P,T,P)	0
+(E,P,E,T)	0
+(E,P,E,E)	0
+(E,P,E,P)	0
+(E,P,P,T)	0
+(E,P,P,E)	0
+(E,P,P,P)	0
+(P,T,T,T)	0
+(P,T,T,E)	0
+(P,T,T,P)	0
+(P,T,E,T)	0
+(P,T,E,E)	0
+(P,T,E,P)	0
+(P,T,P,T)	0
+(P,T,P,E)	0
+(P,T,P,P)	0
+(P,E,T,T)	0
+(P,E,T,E)	0
+(P,E,T,P)	0
+(P,E,E,T)	0
+(P,E,E,E)	0
+(P,E,E,P)	0
+(P,E,P,T)	0
+(P,E,P,E)	0
+(P,E,P,P)	0
+(P,P,T,T)	0
+(P,P,T,E)	0
+(P,P,T,P)	0
+(P,P,E,T)	0
+(P,P,E,E)	0
+(P,P,E,P)	0
+(P,P,P,T)	0
+(P,P,P,E)	0
+(P,P,P,P)	0

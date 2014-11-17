@@ -1,0 +1,911 @@
+
+Scan search-Path: 1
+
+TRAIL:  2: * -<1000>--> (2,4) => [*,Cindy] : 1000
+ 4: Cindy -<1001>--> (4,26) => [Cindy,thinks] : 1001
+ 26: thinks -<1002>--> (26,24) => [thinks,that] : 1002
+ 24: that -<1003>--> (24,5) => [that,George] : 1003
+ 5: George -<1004>--> (5,26) => [George,thinks] : 1004
+ 26: thinks -<1005>--> (26,24) => [thinks,that] : 1005
+ 24: that -<1006>--> (24,27) => [that,to] : 1006
+ 27: to -<1007>--> (27,23) => [to,read] : 1007
+ 23: read -<1008>--> (23,20) => [read,is] : 1008
+ 20: is -<1009>--> (20,28) => [is,tough] : 1009
+ 28: tough -<1010>--> (28,0) => [tough,<EOL>] : 1010
+
+
+Scan search-Path: 2
+
+TRAIL:  2: * -<2000>--> (2,30) => [*,] : 2000
+ 30:  -<2001>--> (30,26) => [,thinks] : 2001
+ 26: thinks -<2002>--> (26,24) => [thinks,that] : 2002
+ 24: that -<2003>--> (24,27) => [that,to] : 2003
+ 27: to -<2004>--> (27,23) => [to,read] : 2004
+ 23: read -<2005>--> (23,20) => [read,is] : 2005
+ 20: is -<2006>--> (20,28) => [is,tough] : 2006
+ 28: tough -<2007>--> (28,0) => [tough,<EOL>] : 2007
+
+
+Scan search-Path: 3
+
+TRAIL:  2: * -<3000>--> (2,24) => [*,that] : 3000
+ 24: that -<3001>--> (24,25) => [that,the] : 3001
+ 25: the -<3002>--> (25,11) => [the,bird] : 3002
+ 11: bird -<3003>--> (11,20) => [bird,is] : 3003
+ 20: is -<3004>--> (20,17) => [is,eager] : 3004
+ 17: eager -<3005>--> (17,27) => [eager,to] : 3005
+ 27: to -<3006>--> (27,23) => [to,read] : 3006
+ 23: read -<3007>--> (23,12) => [read,bothers] : 3007
+ 12: bothers -<3008>--> (12,25) => [bothers,the] : 3008
+ 25: the -<3009>--> (25,16) => [the,dog] : 3009
+ 16: dog -<3010>--> (16,0) => [dog,<EOL>] : 3010
+
+
+Scan search-Path: 4
+
+TRAIL:  2: * -<4000>--> (2,8) => [*,Pam] : 4000
+ 8: Pam -<4001>--> (8,32) => [Pam,] : 4001
+ 32:  -<4002>--> (32,6) => [,Jim] : 4002
+ 6: Jim -<4003>--> (6,32) => [Jim,] : 4003
+ 32:  -<4004>--> (32,27) => [,to] : 4004
+ 27: to -<4005>--> (27,23) => [to,read] : 4005
+ 23: read -<4006>--> (23,20) => [read,is] : 4006
+ 20: is -<4007>--> (20,28) => [is,tough] : 4007
+ 28: tough -<4008>--> (28,0) => [tough,<EOL>] : 4008
+
+
+Scan search-Path: 5
+
+TRAIL:  2: * -<5000>--> (2,36) => [*,] : 5000
+ 36:  -<5001>--> (36,21) => [,please] : 5001
+ 21: please -<5002>--> (21,20) => [please,is] : 5002
+ 20: is -<5003>--> (20,28) => [is,tough] : 5003
+ 28: tough -<5004>--> (28,0) => [tough,<EOL>] : 5004
+
+
+Scan search-Path: 6
+
+TRAIL:  2: * -<6000>--> (2,24) => [*,that] : 6000
+ 24: that -<6001>--> (24,34) => [that,] : 6001
+ 34:  -<6002>--> (34,20) => [,is] : 6002
+ 20: is -<6003>--> (20,18) => [is,easy] : 6003
+ 18: easy -<6004>--> (18,27) => [easy,to] : 6004
+ 27: to -<6005>--> (27,23) => [to,read] : 6005
+ 23: read -<6006>--> (23,15) => [read,disturbs] : 6006
+ 15: disturbs -<6007>--> (15,5) => [disturbs,George] : 6007
+ 5: George -<6008>--> (5,0) => [George,<EOL>] : 6008
+
+
+Scan search-Path: 7
+
+Scan search-Path: 8
+
+Scan search-Path: 9
+
+Scan search-Path: 10
+
+Scan search-Path: 11
+
+Scan search-Path: 12
+
+TRAIL:  2: * -<12000>--> (2,30) => [*,] : 12000
+ 30:  -<12001>--> (30,32) => [,] : 12001
+ 32:  -<12002>--> (32,27) => [,to] : 12002
+ 27: to -<12003>--> (27,21) => [to,please] : 12003
+ 21: please -<12004>--> (21,20) => [please,is] : 12004
+ 20: is -<12005>--> (20,18) => [is,easy] : 12005
+ 18: easy -<12006>--> (18,0) => [easy,<EOL>] : 12006
+
+
+Scan search-Path: 13
+
+TRAIL:  2: * -<13000>--> (2,24) => [*,that] : 13000
+ 24: that -<13001>--> (24,5) => [that,George] : 13001
+ 5: George -<13002>--> (5,20) => [George,is] : 13002
+ 20: is -<13003>--> (20,18) => [is,easy] : 13003
+ 18: easy -<13004>--> (18,27) => [easy,to] : 13004
+ 27: to -<13005>--> (27,23) => [to,read] : 13005
+ 23: read -<13006>--> (23,12) => [read,bothers] : 13006
+ 12: bothers -<13007>--> (12,34) => [bothers,] : 13007
+ 34:  -<13008>--> (34,0) => [,<EOL>] : 13008
+
+
+Scan search-Path: 14
+
+Scan search-Path: 15
+
+Scan search-Path: 16
+
+Scan search-Path: 17
+
+Scan search-Path: 18
+
+Scan search-Path: 19
+
+Scan search-Path: 20
+
+Scan search-Path: 21
+
+Scan search-Path: 22
+
+Scan search-Path: 23
+
+Scan search-Path: 24
+
+Scan search-Path: 25
+
+Scan search-Path: 26
+
+Scan search-Path: 27
+
+Scan search-Path: 28
+
+Scan search-Path: 29
+
+Scan search-Path: 30
+
+Scan search-Path: 31
+
+Scan search-Path: 32
+
+Scan search-Path: 33
+
+Scan search-Path: 34
+
+Scan search-Path: 35
+
+Scan search-Path: 36
+
+Scan search-Path: 37
+
+Scan search-Path: 38
+
+Scan search-Path: 39
+
+Scan search-Path: 40
+
+Scan search-Path: 41
+
+Scan search-Path: 42
+
+Scan search-Path: 43
+
+Scan search-Path: 44
+
+Scan search-Path: 45
+
+Scan search-Path: 46
+
+Scan search-Path: 47
+
+Scan search-Path: 48
+
+Scan search-Path: 49
+
+Scan search-Path: 50
+
+Scan search-Path: 51
+
+Scan search-Path: 52
+
+Scan search-Path: 53
+
+Scan search-Path: 54
+
+Scan search-Path: 55
+
+Scan search-Path: 56
+
+Scan search-Path: 57
+
+Scan search-Path: 58
+
+Scan search-Path: 59
+
+Scan search-Path: 60
+
+Scan search-Path: 61
+
+Scan search-Path: 62
+
+Scan search-Path: 63
+
+Scan search-Path: 64
+
+Scan search-Path: 65
+
+Scan search-Path: 66
+
+Scan search-Path: 67
+
+Scan search-Path: 68
+
+Scan search-Path: 69
+
+Scan search-Path: 70
+
+Scan search-Path: 71
+
+Scan search-Path: 72
+
+Scan search-Path: 73
+
+Scan search-Path: 74
+
+Scan search-Path: 75
+
+Scan search-Path: 76
+
+Scan search-Path: 77
+
+Scan search-Path: 78
+
+Scan search-Path: 79
+
+Scan search-Path: 80
+
+Scan search-Path: 81
+
+Scan search-Path: 82
+
+Scan search-Path: 83
+
+Scan search-Path: 84
+
+Scan search-Path: 85
+
+Scan search-Path: 86
+
+Scan search-Path: 87
+
+Scan search-Path: 88
+
+Scan search-Path: 89
+
+Scan search-Path: 90
+
+Scan search-Path: 91
+
+Scan search-Path: 92
+
+Scan search-Path: 93
+
+Scan search-Path: 94
+
+Scan search-Path: 95
+
+Scan search-Path: 96
+
+Scan search-Path: 97
+
+Scan search-Path: 98
+
+Scan search-Path: 99
+
+Scan search-Path: 100
+
+Scan search-Path: 101
+
+Scan search-Path: 102
+
+Scan search-Path: 103
+
+Scan search-Path: 104
+
+Scan search-Path: 105
+
+Scan search-Path: 106
+
+Scan search-Path: 107
+
+Scan search-Path: 108
+
+Scan search-Path: 109
+
+Scan search-Path: 110
+
+Scan search-Path: 111
+
+Scan search-Path: 112
+
+Scan search-Path: 113
+
+Scan search-Path: 114
+
+Scan search-Path: 115
+
+Scan search-Path: 116
+
+Scan search-Path: 117
+
+Scan search-Path: 118
+
+Scan search-Path: 119
+
+Scan search-Path: 120
+
+Scan search-Path: 121
+
+Scan search-Path: 122
+
+Scan search-Path: 123
+
+Scan search-Path: 124
+
+Scan search-Path: 125
+
+Scan search-Path: 126
+
+Scan search-Path: 127
+
+Scan search-Path: 128
+
+Scan search-Path: 129
+
+Scan search-Path: 130
+
+Scan search-Path: 131
+
+Scan search-Path: 132
+
+Scan search-Path: 133
+
+Scan search-Path: 134
+
+Scan search-Path: 135
+
+Scan search-Path: 136
+
+Scan search-Path: 137
+
+Scan search-Path: 138
+
+Scan search-Path: 139
+
+Scan search-Path: 140
+
+Scan search-Path: 141
+
+Scan search-Path: 142
+
+Scan search-Path: 143
+
+Scan search-Path: 144
+
+Scan search-Path: 145
+
+Scan search-Path: 146
+
+Scan search-Path: 147
+
+Scan search-Path: 148
+
+Scan search-Path: 149
+
+Scan search-Path: 150
+
+Scan search-Path: 151
+
+Scan search-Path: 152
+
+Scan search-Path: 153
+
+Scan search-Path: 154
+
+Scan search-Path: 155
+
+Scan search-Path: 156
+
+Scan search-Path: 157
+
+Scan search-Path: 158
+
+Scan search-Path: 159
+
+Scan search-Path: 160
+
+Scan search-Path: 161
+
+Scan search-Path: 162
+
+Scan search-Path: 163
+
+Scan search-Path: 164
+
+Scan search-Path: 165
+
+Scan search-Path: 166
+
+Scan search-Path: 167
+
+Scan search-Path: 168
+
+Scan search-Path: 169
+
+Scan search-Path: 170
+
+Scan search-Path: 171
+
+Scan search-Path: 172
+
+Scan search-Path: 173
+
+Scan search-Path: 174
+
+Scan search-Path: 175
+
+Scan search-Path: 176
+
+Scan search-Path: 177
+
+Scan search-Path: 178
+
+Scan search-Path: 179
+
+Scan search-Path: 180
+
+Scan search-Path: 181
+
+Scan search-Path: 182
+
+Scan search-Path: 183
+
+Scan search-Path: 184
+
+Scan search-Path: 185
+
+Scan search-Path: 186
+
+Scan search-Path: 187
+
+Scan search-Path: 188
+
+Scan search-Path: 189
+
+Scan search-Path: 190
+
+Scan search-Path: 191
+
+Scan search-Path: 192
+
+Scan search-Path: 193
+
+Scan search-Path: 194
+
+Scan search-Path: 195
+
+Scan search-Path: 196
+
+Scan search-Path: 197
+
+Scan search-Path: 198
+
+Scan search-Path: 199
+
+Scan search-Path: 200
+
+Scan search-Path: 201
+
+Scan search-Path: 202
+
+Scan search-Path: 203
+
+Scan search-Path: 204
+
+Scan search-Path: 205
+
+Scan search-Path: 206
+
+Scan search-Path: 207
+
+Scan search-Path: 208
+
+Scan search-Path: 209
+
+Scan search-Path: 210
+
+Scan search-Path: 211
+
+Scan search-Path: 212
+
+Scan search-Path: 213
+
+Scan search-Path: 214
+
+Scan search-Path: 215
+
+Scan search-Path: 216
+
+Scan search-Path: 217
+
+Scan search-Path: 218
+
+Scan search-Path: 219
+
+Scan search-Path: 220
+
+Scan search-Path: 221
+
+Scan search-Path: 222
+
+Scan search-Path: 223
+
+Scan search-Path: 224
+
+Scan search-Path: 225
+
+Scan search-Path: 226
+
+Scan search-Path: 227
+
+Scan search-Path: 228
+
+Scan search-Path: 229
+
+Scan search-Path: 230
+
+Scan search-Path: 231
+
+Scan search-Path: 232
+
+Scan search-Path: 233
+
+Scan search-Path: 234
+
+Scan search-Path: 235
+
+Scan search-Path: 236
+
+Scan search-Path: 237
+
+Scan search-Path: 238
+
+Scan search-Path: 239
+
+Scan search-Path: 240
+
+Scan search-Path: 241
+
+Scan search-Path: 242
+
+Scan search-Path: 243
+
+Scan search-Path: 244
+
+Scan search-Path: 245
+
+Scan search-Path: 246
+
+Scan search-Path: 247
+
+Scan search-Path: 248
+
+Scan search-Path: 249
+
+Scan search-Path: 250
+
+Scan search-Path: 251
+
+Scan search-Path: 252
+
+Scan search-Path: 253
+
+Scan search-Path: 254
+
+Scan search-Path: 255
+
+Scan search-Path: 256
+
+Scan search-Path: 257
+
+Scan search-Path: 258
+
+Scan search-Path: 259
+
+Scan search-Path: 260
+
+Scan search-Path: 261
+
+Scan search-Path: 262
+
+Scan search-Path: 263
+
+Scan search-Path: 264
+
+Scan search-Path: 265
+
+Scan search-Path: 266
+
+Scan search-Path: 267
+
+Scan search-Path: 268
+
+Scan search-Path: 269
+
+Scan search-Path: 270
+
+Scan search-Path: 271
+
+Scan search-Path: 272
+
+Scan search-Path: 273
+
+Scan search-Path: 274
+
+Scan search-Path: 275
+
+Scan search-Path: 276
+
+Scan search-Path: 277
+
+Scan search-Path: 278
+
+Scan search-Path: 279
+
+Scan search-Path: 280
+
+Scan search-Path: 281
+
+Scan search-Path: 282
+
+Scan search-Path: 283
+
+Scan search-Path: 284
+
+Scan search-Path: 285
+
+Scan search-Path: 286
+
+Scan search-Path: 287
+
+Scan search-Path: 288
+
+Scan search-Path: 289
+
+Scan search-Path: 290
+
+Scan search-Path: 291
+
+Scan search-Path: 292
+
+Scan search-Path: 293
+
+Scan search-Path: 294
+
+Scan search-Path: 295
+
+Scan search-Path: 296
+
+Scan search-Path: 297
+
+Scan search-Path: 298
+
+Scan search-Path: 299
+
+Scan search-Path: 300
+
+Scan search-Path: 301
+
+Scan search-Path: 302
+
+Scan search-Path: 303
+
+Scan search-Path: 304
+
+Scan search-Path: 305
+
+Scan search-Path: 306
+
+Scan search-Path: 307
+
+Scan search-Path: 308
+
+Scan search-Path: 309
+
+Scan search-Path: 310
+
+Scan search-Path: 311
+
+Scan search-Path: 312
+
+Scan search-Path: 313
+
+Scan search-Path: 314
+
+Scan search-Path: 315
+
+Scan search-Path: 316
+
+Scan search-Path: 317
+
+Scan search-Path: 318
+
+Scan search-Path: 319
+
+Scan search-Path: 320
+
+Scan search-Path: 321
+
+Scan search-Path: 322
+
+Scan search-Path: 323
+
+Scan search-Path: 324
+
+Scan search-Path: 325
+
+Scan search-Path: 326
+
+Scan search-Path: 327
+
+Scan search-Path: 328
+
+Scan search-Path: 329
+
+Scan search-Path: 330
+
+Scan search-Path: 331
+
+Scan search-Path: 332
+
+Scan search-Path: 333
+
+Scan search-Path: 334
+
+Scan search-Path: 335
+
+Scan search-Path: 336
+
+Scan search-Path: 337
+
+Scan search-Path: 338
+
+Scan search-Path: 339
+
+Scan search-Path: 340
+
+Scan search-Path: 341
+
+Scan search-Path: 342
+
+Scan search-Path: 343
+
+Scan search-Path: 344
+
+Scan search-Path: 345
+
+Scan search-Path: 346
+
+Scan search-Path: 347
+
+Scan search-Path: 348
+
+Scan search-Path: 349
+
+Scan search-Path: 350
+
+Scan search-Path: 351
+
+Scan search-Path: 352
+
+Scan search-Path: 353
+
+Scan search-Path: 354
+
+Scan search-Path: 355
+
+Scan search-Path: 356
+
+Scan search-Path: 357
+
+Scan search-Path: 358
+
+Scan search-Path: 359
+
+Scan search-Path: 360
+
+Scan search-Path: 361
+
+Scan search-Path: 362
+
+Scan search-Path: 363
+
+Scan search-Path: 364
+
+Scan search-Path: 365
+
+Scan search-Path: 366
+
+Scan search-Path: 367
+
+Scan search-Path: 368
+
+Scan search-Path: 369
+
+Scan search-Path: 370
+
+Scan search-Path: 371
+
+Scan search-Path: 372
+
+Scan search-Path: 373
+
+Scan search-Path: 374
+
+Scan search-Path: 375
+
+Scan search-Path: 376
+
+Scan search-Path: 377
+
+Scan search-Path: 378
+
+Scan search-Path: 379
+
+Scan search-Path: 380
+
+Scan search-Path: 381
+
+Scan search-Path: 382
+
+Scan search-Path: 383
+
+Scan search-Path: 384
+
+Scan search-Path: 385
+
+Scan search-Path: 386
+
+Scan search-Path: 387
+
+Scan search-Path: 388
+
+Scan search-Path: 389
+
+Scan search-Path: 390
+
+Scan search-Path: 391
+
+Scan search-Path: 392
+
+Scan search-Path: 393
+
+Scan search-Path: 394
+
+Scan search-Path: 395
+
+Scan search-Path: 396
+
+Scan search-Path: 397
+
+Scan search-Path: 398
+
+Scan search-Path: 399
+
+Scan search-Path: 400
+
+Scan search-Path: 401
+
+Scan search-Path: 402
+
+Scan search-Path: 403
+
+Scan search-Path: 404
+
+Scan search-Path: 405
+
+Scan search-Path: 406
+
+Scan search-Path: 407
+
+Scan search-Path: 408
+
+Scan search-Path: 409
+
+Scan search-Path: 410
+
+Scan search-Path: 411
+
+Scan search-Path: 412
+
+Scan search-Path: 413

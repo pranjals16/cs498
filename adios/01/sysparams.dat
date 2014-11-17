@@ -1,0 +1,1 @@
+counter= 5 initalPath= 1 nPath= 99 stop_creteria= 400 max_hierarchy_level= 0 min_significance= 0.99 min_generalization= -0.01 alpha= 1 beta= 1 eta= 0.9 beginEndMode= 1 CSMode= 0 rewiringMode= 1 verboseMode= 0 recursions= 10 ec_coverage= 0.65 output_fname=01 max_iterations_per_path=0

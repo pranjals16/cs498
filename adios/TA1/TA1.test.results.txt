@@ -1,0 +1,5982 @@
+
+###########################################################################
+
+INPUT: 1 BEGIN [2 ; * ] [43 ; that ] [10 ; Joe ] [31 ; is ] [49 ; tough ] [48 ; to ] [40 ; read ] [23 ; disturbs ] [44 ; the ] [25 ; dog ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Joe is tough to read disturbs the dog  #
+
+###########################################################################
+
+INPUT: 2 BEGIN [2 ; * ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [8 ; George ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam thinks that George thinks that to read is tough  #
+
+###########################################################################
+
+INPUT: 3 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [30 ; horse ] [31 ; is ] [27 ; eager ] [48 ; to ] [40 ; read ] [51 ; worries ] [44 ; the ] [22 ; cow ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the horse is eager to read worries the cow  #
+
+###########################################################################
+
+INPUT: 4 BEGIN [2 ; * ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [11 ; Pam ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth thinks that Pam believes that to please is tough  #
+
+###########################################################################
+
+INPUT: 5 BEGIN [2 ; * ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [11 ; Pam ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam thinks that Pam believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 6 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Cindy believes that to please is tough  #
+
+###########################################################################
+
+INPUT: 7 BEGIN [2 ; * ] [43 ; that ] [8 ; George ] [31 ; is ] [49 ; tough ] [48 ; to ] [40 ; read ] [15 ; annoys ] [44 ; the ] [22 ; cow ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that George is tough to read annoys the cow  #
+
+###########################################################################
+
+INPUT: 8 BEGIN [2 ; * ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [10 ; Joe ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam thinks that Joe believes that to please is easy  #
+
+###########################################################################
+
+INPUT: 9 BEGIN [2 ; * ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [8 ; George ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam thinks that George thinks that to please is tough  #
+
+###########################################################################
+
+INPUT: 10 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [9 ; Jim ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that Jim thinks that to read is tough  #
+
+###########################################################################
+
+INPUT: 11 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [22 ; cow ] [31 ; is ] [27 ; eager ] [48 ; to ] [40 ; read ] [20 ; bothers ] [7 ; Cindy ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 75
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cow is eager to read bothers Cindy  #
+
+###########################################################################
+
+INPUT: 12 BEGIN [2 ; * ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [10 ; Joe ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth thinks that Joe thinks that to please is tough  #
+
+###########################################################################
+
+INPUT: 13 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [8 ; George ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that George believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 14 BEGIN [2 ; * ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [9 ; Jim ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam thinks that Jim believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 15 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [25 ; dog ] [31 ; is ] [49 ; tough ] [48 ; to ] [38 ; please ] [51 ; worries ] [9 ; Jim ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the dog is tough to please worries Jim  #
+
+###########################################################################
+
+INPUT: 16 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [10 ; Joe ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Joe believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 17 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that Cindy thinks that to please is easy  #
+
+###########################################################################
+
+INPUT: 18 BEGIN [2 ; * ] [11 ; Pam ] [18 ; believes ] [43 ; that ] [8 ; George ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam believes that George believes that to please is tough  #
+
+###########################################################################
+
+INPUT: 19 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [10 ; Joe ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Joe believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 20 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [9 ; Jim ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that Jim believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 21 BEGIN [2 ; * ] [43 ; that ] [7 ; Cindy ] [31 ; is ] [49 ; tough ] [48 ; to ] [40 ; read ] [20 ; bothers ] [44 ; the ] [25 ; dog ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 75
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Cindy is tough to read bothers the dog  #
+
+###########################################################################
+
+INPUT: 22 BEGIN [2 ; * ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [8 ; George ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth thinks that George thinks that to read is tough  #
+
+###########################################################################
+
+INPUT: 23 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [22 ; cow ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [20 ; bothers ] [44 ; the ] [21 ; cat ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cow is easy to please bothers the cat  #
+
+###########################################################################
+
+INPUT: 24 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [8 ; George ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that George believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 25 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that Beth thinks that to please is tough  #
+
+###########################################################################
+
+INPUT: 26 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [21 ; cat ] [31 ; is ] [28 ; easy ] [48 ; to ] [40 ; read ] [20 ; bothers ] [44 ; the ] [19 ; bird ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cat is easy to read bothers the bird  #
+
+###########################################################################
+
+INPUT: 27 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [8 ; George ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that George believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 28 BEGIN [2 ; * ] [11 ; Pam ] [18 ; believes ] [43 ; that ] [9 ; Jim ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam believes that Jim believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 29 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [8 ; George ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that George thinks that to read is easy  #
+
+###########################################################################
+
+INPUT: 30 BEGIN [2 ; * ] [43 ; that ] [9 ; Jim ] [31 ; is ] [49 ; tough ] [48 ; to ] [40 ; read ] [51 ; worries ] [44 ; the ] [30 ; horse ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Jim is tough to read worries the horse  #
+
+###########################################################################
+
+INPUT: 31 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [9 ; Jim ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Jim thinks that to read is tough  #
+
+###########################################################################
+
+INPUT: 32 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Cindy thinks that to read is easy  #
+
+###########################################################################
+
+INPUT: 33 BEGIN [2 ; * ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [11 ; Pam ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth thinks that Pam believes that to please is easy  #
+
+###########################################################################
+
+INPUT: 34 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Cindy believes that to please is tough  #
+
+###########################################################################
+
+INPUT: 35 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [25 ; dog ] [31 ; is ] [27 ; eager ] [48 ; to ] [38 ; please ] [23 ; disturbs ] [44 ; the ] [21 ; cat ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the dog is eager to please disturbs the cat  #
+
+###########################################################################
+
+INPUT: 36 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [8 ; George ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that George believes that to please is easy  #
+
+###########################################################################
+
+INPUT: 37 BEGIN [2 ; * ] [11 ; Pam ] [18 ; believes ] [43 ; that ] [9 ; Jim ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam believes that Jim thinks that to please is easy  #
+
+###########################################################################
+
+INPUT: 38 BEGIN [2 ; * ] [11 ; Pam ] [18 ; believes ] [43 ; that ] [8 ; George ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam believes that George thinks that to read is easy  #
+
+###########################################################################
+
+INPUT: 39 BEGIN [2 ; * ] [43 ; that ] [9 ; Jim ] [31 ; is ] [27 ; eager ] [48 ; to ] [38 ; please ] [51 ; worries ] [7 ; Cindy ] 
+
+
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Jim is eager to please worries Cindy  #
+
+###########################################################################
+
+INPUT: 40 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Cindy thinks that to please is tough  #
+
+###########################################################################
+
+INPUT: 41 BEGIN [2 ; * ] [11 ; Pam ] [18 ; believes ] [43 ; that ] [9 ; Jim ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam believes that Jim believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 42 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Pam thinks that to read is easy  #
+
+###########################################################################
+
+INPUT: 43 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [9 ; Jim ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Jim thinks that to read is tough  #
+
+###########################################################################
+
+INPUT: 44 BEGIN [2 ; * ] [43 ; that ] [9 ; Jim ] [31 ; is ] [28 ; easy ] [48 ; to ] [40 ; read ] [23 ; disturbs ] [44 ; the ] [25 ; dog ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Jim is easy to read disturbs the dog  #
+
+###########################################################################
+
+INPUT: 45 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [30 ; horse ] [31 ; is ] [27 ; eager ] [48 ; to ] [40 ; read ] [23 ; disturbs ] [9 ; Jim ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the horse is eager to read disturbs Jim  #
+
+###########################################################################
+
+INPUT: 46 BEGIN [2 ; * ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [8 ; George ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam thinks that George thinks that to please is tough  #
+
+###########################################################################
+
+INPUT: 47 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [22 ; cow ] [31 ; is ] [27 ; eager ] [48 ; to ] [40 ; read ] [51 ; worries ] [44 ; the ] [21 ; cat ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cow is eager to read worries the cat  #
+
+###########################################################################
+
+INPUT: 48 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [10 ; Joe ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Joe believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 49 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [30 ; horse ] [31 ; is ] [27 ; eager ] [48 ; to ] [38 ; please ] [20 ; bothers ] [44 ; the ] [22 ; cow ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the horse is eager to please bothers the cow  #
+
+###########################################################################
+
+INPUT: 50 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [30 ; horse ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [23 ; disturbs ] [44 ; the ] [22 ; cow ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the horse is easy to please disturbs the cow  #
+
+###########################################################################
+
+INPUT: 51 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [10 ; Joe ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Joe believes that to please is easy  #
+
+###########################################################################
+
+INPUT: 52 BEGIN [2 ; * ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth thinks that Beth thinks that to please is tough  #
+
+###########################################################################
+
+INPUT: 53 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [8 ; George ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that George thinks that to please is easy  #
+
+###########################################################################
+
+INPUT: 54 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [9 ; Jim ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Jim believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 55 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [9 ; Jim ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Jim believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 56 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Pam thinks that to please is easy  #
+
+###########################################################################
+
+INPUT: 57 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [11 ; Pam ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that Pam believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 58 BEGIN [2 ; * ] [43 ; that ] [10 ; Joe ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [15 ; annoys ] [6 ; Beth ] 
+
+
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Joe is easy to please annoys Beth  #
+
+###########################################################################
+
+INPUT: 59 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [8 ; George ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that George thinks that to please is easy  #
+
+###########################################################################
+
+INPUT: 60 BEGIN [2 ; * ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [9 ; Jim ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth thinks that Jim thinks that to read is easy  #
+
+###########################################################################
+
+INPUT: 61 BEGIN [2 ; * ] [43 ; that ] [9 ; Jim ] [31 ; is ] [27 ; eager ] [48 ; to ] [40 ; read ] [23 ; disturbs ] [44 ; the ] [30 ; horse ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Jim is eager to read disturbs the horse  #
+
+###########################################################################
+
+INPUT: 62 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [9 ; Jim ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that Jim believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 63 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [8 ; George ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that George thinks that to read is tough  #
+
+###########################################################################
+
+INPUT: 64 BEGIN [2 ; * ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [9 ; Jim ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam thinks that Jim believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 65 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [22 ; cow ] [31 ; is ] [27 ; eager ] [48 ; to ] [38 ; please ] [20 ; bothers ] [9 ; Jim ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cow is eager to please bothers Jim  #
+
+###########################################################################
+
+INPUT: 66 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [21 ; cat ] [31 ; is ] [28 ; easy ] [48 ; to ] [40 ; read ] [23 ; disturbs ] [44 ; the ] [25 ; dog ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cat is easy to read disturbs the dog  #
+
+###########################################################################
+
+INPUT: 67 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [22 ; cow ] [31 ; is ] [27 ; eager ] [48 ; to ] [38 ; please ] [51 ; worries ] [44 ; the ] [22 ; cow ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cow is eager to please worries the cow  #
+
+###########################################################################
+
+INPUT: 68 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [11 ; Pam ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Pam believes that to please is easy  #
+
+###########################################################################
+
+INPUT: 69 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that Beth believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 70 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Pam thinks that to please is easy  #
+
+###########################################################################
+
+INPUT: 71 BEGIN [2 ; * ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth thinks that Beth believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 72 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [10 ; Joe ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Joe believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 73 BEGIN [2 ; * ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [10 ; Joe ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth thinks that Joe thinks that to read is tough  #
+
+###########################################################################
+
+INPUT: 74 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Cindy thinks that to please is easy  #
+
+###########################################################################
+
+INPUT: 75 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [8 ; George ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that George believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 76 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [8 ; George ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that George believes that to please is tough  #
+
+###########################################################################
+
+INPUT: 77 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [19 ; bird ] [31 ; is ] [27 ; eager ] [48 ; to ] [40 ; read ] [20 ; bothers ] [44 ; the ] [25 ; dog ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the bird is eager to read bothers the dog  #
+
+###########################################################################
+
+INPUT: 78 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [19 ; bird ] [31 ; is ] [49 ; tough ] [48 ; to ] [38 ; please ] [23 ; disturbs ] [44 ; the ] [39 ; rabbit ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the bird is tough to please disturbs the rabbit  #
+
+###########################################################################
+
+INPUT: 79 BEGIN [2 ; * ] [43 ; that ] [7 ; Cindy ] [31 ; is ] [27 ; eager ] [48 ; to ] [40 ; read ] [23 ; disturbs ] [44 ; the ] [30 ; horse ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 75
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Cindy is eager to read disturbs the horse  #
+
+###########################################################################
+
+INPUT: 80 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [8 ; George ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that George believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 81 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [25 ; dog ] [31 ; is ] [27 ; eager ] [48 ; to ] [38 ; please ] [20 ; bothers ] [44 ; the ] [25 ; dog ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the dog is eager to please bothers the dog  #
+
+###########################################################################
+
+INPUT: 82 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [9 ; Jim ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Jim thinks that to read is tough  #
+
+###########################################################################
+
+INPUT: 83 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [10 ; Joe ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that Joe believes that to please is tough  #
+
+###########################################################################
+
+INPUT: 84 BEGIN [2 ; * ] [11 ; Pam ] [18 ; believes ] [43 ; that ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam believes that Beth thinks that to read is easy  #
+
+###########################################################################
+
+INPUT: 85 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [10 ; Joe ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Joe believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 86 BEGIN [2 ; * ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam thinks that Cindy believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 87 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [21 ; cat ] [31 ; is ] [28 ; easy ] [48 ; to ] [40 ; read ] [23 ; disturbs ] [11 ; Pam ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 75
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cat is easy to read disturbs Pam  #
+
+###########################################################################
+
+INPUT: 88 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [19 ; bird ] [31 ; is ] [27 ; eager ] [48 ; to ] [38 ; please ] [51 ; worries ] [10 ; Joe ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the bird is eager to please worries Joe  #
+
+###########################################################################
+
+INPUT: 89 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [25 ; dog ] [31 ; is ] [27 ; eager ] [48 ; to ] [38 ; please ] [23 ; disturbs ] [8 ; George ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the dog is eager to please disturbs George  #
+
+###########################################################################
+
+INPUT: 90 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [21 ; cat ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [23 ; disturbs ] [8 ; George ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cat is easy to please disturbs George  #
+
+###########################################################################
+
+INPUT: 91 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Beth believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 92 BEGIN [2 ; * ] [43 ; that ] [6 ; Beth ] [31 ; is ] [27 ; eager ] [48 ; to ] [40 ; read ] [23 ; disturbs ] [44 ; the ] [30 ; horse ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 75
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Beth is eager to read disturbs the horse  #
+
+###########################################################################
+
+INPUT: 93 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [25 ; dog ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [51 ; worries ] [44 ; the ] [22 ; cow ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the dog is easy to please worries the cow  #
+
+###########################################################################
+
+INPUT: 94 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [9 ; Jim ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Jim thinks that to please is easy  #
+
+###########################################################################
+
+INPUT: 95 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [22 ; cow ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [20 ; bothers ] [44 ; the ] [22 ; cow ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cow is easy to please bothers the cow  #
+
+###########################################################################
+
+INPUT: 96 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [8 ; George ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that George believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 97 BEGIN [2 ; * ] [43 ; that ] [8 ; George ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [20 ; bothers ] [44 ; the ] [22 ; cow ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that George is easy to please bothers the cow  #
+
+###########################################################################
+
+INPUT: 98 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Beth thinks that to read is easy  #
+
+###########################################################################
+
+INPUT: 99 BEGIN [2 ; * ] [43 ; that ] [10 ; Joe ] [31 ; is ] [27 ; eager ] [48 ; to ] [38 ; please ] [23 ; disturbs ] [44 ; the ] [21 ; cat ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Joe is eager to please disturbs the cat  #
+
+###########################################################################
+
+INPUT: 100 BEGIN [2 ; * ] [43 ; that ] [7 ; Cindy ] [31 ; is ] [49 ; tough ] [48 ; to ] [40 ; read ] [51 ; worries ] [44 ; the ] [30 ; horse ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 75
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Cindy is tough to read worries the horse  #
+
+###########################################################################
+
+INPUT: 101 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [10 ; Joe ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Joe believes that to please is tough  #
+
+###########################################################################
+
+INPUT: 102 BEGIN [2 ; * ] [43 ; that ] [6 ; Beth ] [31 ; is ] [49 ; tough ] [48 ; to ] [40 ; read ] [20 ; bothers ] [7 ; Cindy ] 
+
+
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Beth is tough to read bothers Cindy  #
+
+###########################################################################
+
+INPUT: 103 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [9 ; Jim ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Jim believes that to please is easy  #
+
+###########################################################################
+
+INPUT: 104 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [21 ; cat ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [23 ; disturbs ] [9 ; Jim ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cat is easy to please disturbs Jim  #
+
+###########################################################################
+
+INPUT: 105 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [30 ; horse ] [31 ; is ] [28 ; easy ] [48 ; to ] [40 ; read ] [15 ; annoys ] [44 ; the ] [39 ; rabbit ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the horse is easy to read annoys the rabbit  #
+
+###########################################################################
+
+INPUT: 106 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [39 ; rabbit ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [23 ; disturbs ] [10 ; Joe ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the rabbit is easy to please disturbs Joe  #
+
+###########################################################################
+
+INPUT: 107 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Cindy believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 108 BEGIN [2 ; * ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam thinks that Cindy thinks that to read is tough  #
+
+###########################################################################
+
+INPUT: 109 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [8 ; George ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that George thinks that to please is tough  #
+
+###########################################################################
+
+INPUT: 110 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Cindy believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 111 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [10 ; Joe ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Joe thinks that to read is easy  #
+
+###########################################################################
+
+INPUT: 112 BEGIN [2 ; * ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth thinks that Beth thinks that to read is easy  #
+
+###########################################################################
+
+INPUT: 113 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [22 ; cow ] [31 ; is ] [49 ; tough ] [48 ; to ] [40 ; read ] [51 ; worries ] [7 ; Cindy ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 75
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cow is tough to read worries Cindy  #
+
+###########################################################################
+
+INPUT: 114 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [9 ; Jim ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Jim believes that to please is tough  #
+
+###########################################################################
+
+INPUT: 115 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [19 ; bird ] [31 ; is ] [49 ; tough ] [48 ; to ] [38 ; please ] [23 ; disturbs ] [44 ; the ] [30 ; horse ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the bird is tough to please disturbs the horse  #
+
+###########################################################################
+
+INPUT: 116 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [9 ; Jim ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Jim believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 117 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [30 ; horse ] [31 ; is ] [27 ; eager ] [48 ; to ] [40 ; read ] [15 ; annoys ] [44 ; the ] [39 ; rabbit ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the horse is eager to read annoys the rabbit  #
+
+###########################################################################
+
+INPUT: 118 BEGIN [2 ; * ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth believes that Beth believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 119 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Beth thinks that to read is tough  #
+
+###########################################################################
+
+INPUT: 120 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [25 ; dog ] [31 ; is ] [49 ; tough ] [48 ; to ] [40 ; read ] [51 ; worries ] [44 ; the ] [30 ; horse ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the dog is tough to read worries the horse  #
+
+###########################################################################
+
+INPUT: 121 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that Cindy thinks that to read is easy  #
+
+###########################################################################
+
+INPUT: 122 BEGIN [2 ; * ] [11 ; Pam ] [18 ; believes ] [43 ; that ] [10 ; Joe ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam believes that Joe believes that to read is tough  #
+
+###########################################################################
+
+INPUT: 123 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Cindy believes that to please is tough  #
+
+###########################################################################
+
+INPUT: 124 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [9 ; Jim ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Jim thinks that to read is easy  #
+
+###########################################################################
+
+INPUT: 125 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [30 ; horse ] [31 ; is ] [27 ; eager ] [48 ; to ] [38 ; please ] [20 ; bothers ] [44 ; the ] [25 ; dog ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the horse is eager to please bothers the dog  #
+
+###########################################################################
+
+INPUT: 126 BEGIN [2 ; * ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [10 ; Joe ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam thinks that Joe thinks that to read is tough  #
+
+###########################################################################
+
+INPUT: 127 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [22 ; cow ] [31 ; is ] [28 ; easy ] [48 ; to ] [40 ; read ] [23 ; disturbs ] [44 ; the ] [21 ; cat ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cow is easy to read disturbs the cat  #
+
+###########################################################################
+
+INPUT: 128 BEGIN [2 ; * ] [7 ; Cindy ] [47 ; thinks ] [43 ; that ] [10 ; Joe ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy thinks that Joe believes that to please is easy  #
+
+###########################################################################
+
+INPUT: 129 BEGIN [2 ; * ] [43 ; that ] [11 ; Pam ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [51 ; worries ] [44 ; the ] [19 ; bird ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 75
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Pam is easy to please worries the bird  #
+
+###########################################################################
+
+INPUT: 130 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [25 ; dog ] [31 ; is ] [27 ; eager ] [48 ; to ] [38 ; please ] [15 ; annoys ] [10 ; Joe ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the dog is eager to please annoys Joe  #
+
+###########################################################################
+
+INPUT: 131 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [25 ; dog ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [15 ; annoys ] [44 ; the ] [21 ; cat ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the dog is easy to please annoys the cat  #
+
+###########################################################################
+
+INPUT: 132 BEGIN [2 ; * ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [6 ; Beth ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [49 ; tough ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam thinks that Beth believes that to please is tough  #
+
+###########################################################################
+
+INPUT: 133 BEGIN [2 ; * ] [11 ; Pam ] [18 ; believes ] [43 ; that ] [10 ; Joe ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam believes that Joe believes that to please is easy  #
+
+###########################################################################
+
+INPUT: 134 BEGIN [2 ; * ] [7 ; Cindy ] [18 ; believes ] [43 ; that ] [10 ; Joe ] [47 ; thinks ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Cindy believes that Joe thinks that to read is easy  #
+
+###########################################################################
+
+INPUT: 135 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [21 ; cat ] [31 ; is ] [27 ; eager ] [48 ; to ] [40 ; read ] [51 ; worries ] [44 ; the ] [30 ; horse ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the cat is eager to read worries the horse  #
+
+###########################################################################
+
+INPUT: 136 BEGIN [2 ; * ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth thinks that Beth thinks that to please is easy  #
+
+###########################################################################
+
+INPUT: 137 BEGIN [2 ; * ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [9 ; Jim ] [18 ; believes ] [43 ; that ] [48 ; to ] [40 ; read ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Pam thinks that Jim believes that to read is easy  #
+
+###########################################################################
+
+INPUT: 138 BEGIN [2 ; * ] [43 ; that ] [11 ; Pam ] [31 ; is ] [49 ; tough ] [48 ; to ] [40 ; read ] [23 ; disturbs ] [44 ; the ] [21 ; cat ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 75
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Pam is tough to read disturbs the cat  #
+
+###########################################################################
+
+INPUT: 139 BEGIN [2 ; * ] [43 ; that ] [8 ; George ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [23 ; disturbs ] [44 ; the ] [30 ; horse ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that George is easy to please disturbs the horse  #
+
+###########################################################################
+
+INPUT: 140 BEGIN [2 ; * ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [11 ; Pam ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth thinks that Pam thinks that to please is easy  #
+
+###########################################################################
+
+INPUT: 141 BEGIN [2 ; * ] [43 ; that ] [9 ; Jim ] [31 ; is ] [27 ; eager ] [48 ; to ] [38 ; please ] [51 ; worries ] [44 ; the ] [25 ; dog ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Jim is eager to please worries the dog  #
+
+###########################################################################
+
+INPUT: 142 BEGIN [2 ; * ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [9 ; Jim ] [47 ; thinks ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth thinks that Jim thinks that to please is easy  #
+
+###########################################################################
+
+INPUT: 143 BEGIN [2 ; * ] [6 ; Beth ] [47 ; thinks ] [43 ; that ] [10 ; Joe ] [18 ; believes ] [43 ; that ] [48 ; to ] [38 ; please ] [31 ; is ] [28 ; easy ] 
+
+
+PATTERN: 61
+PATTERN: 61
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 73
+PATTERN: 73
+PATTERN: 75
+PATTERN: 81
+PATTERN: 81
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 108
+PATTERN: 108
+PATTERN: 115
+PATTERN: 115
+PATTERN: 117
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 124
+PATTERN: 124
+PATTERN: 125
+PATTERN: 125
+PATTERN: 125
+PATTERN: 127
+PATTERN: 128
+PATTERN: 128
+PATTERN: 129
+PATTERN: 131
+PATTERN: 135
+PATTERN: 139
+Full span by path: 135 
+Accepted	* Beth thinks that Joe believes that to please is easy  #
+
+###########################################################################
+
+INPUT: 144 BEGIN [2 ; * ] [43 ; that ] [9 ; Jim ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [15 ; annoys ] [44 ; the ] [22 ; cow ] 
+
+
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 73
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 108
+PATTERN: 115
+PATTERN: 117
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 124
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that Jim is easy to please annoys the cow  #
+
+###########################################################################
+
+INPUT: 145 BEGIN [2 ; * ] [43 ; that ] [44 ; the ] [30 ; horse ] [31 ; is ] [28 ; easy ] [48 ; to ] [38 ; please ] [23 ; disturbs ] [44 ; the ] [22 ; cow ] 
+
+
+PATTERN: 53
+PATTERN: 53
+PATTERN: 61
+PATTERN: 63
+PATTERN: 65
+PATTERN: 67
+PATTERN: 69
+PATTERN: 71
+PATTERN: 71
+PATTERN: 88
+PATTERN: 90
+PATTERN: 91
+PATTERN: 93
+PATTERN: 94
+PATTERN: 96
+PATTERN: 104
+PATTERN: 104
+PATTERN: 106
+PATTERN: 106
+PATTERN: 121
+PATTERN: 121
+PATTERN: 123
+PATTERN: 123
+PATTERN: 135
+PATTERN: 140
+Full span by path: 135 
+Accepted	* that the horse is easy to please disturbs the cow  #
